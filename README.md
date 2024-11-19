@@ -9,7 +9,7 @@
 
 **Project Description:**
 
-The objective of this work is to employ the computational tools learned in the Bioinformatics Laboratory course to conduct an analysis of a selected set of genes from human gut microorganisms.
+The objective of this project is to employ the computational tools learned in the Bioinformatics Laboratory course to conduct an analysis of a selected set of genes from human gut microorganisms.
 
 **Repository Structure:**
 
