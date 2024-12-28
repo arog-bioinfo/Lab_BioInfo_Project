@@ -11,12 +11,12 @@
 
 The objective of this project is to employ the computational tools learned in the Bioinformatics Laboratory course to conduct an analysis of a selected set of genes from human gut microorganisms.
 
-| **Gene Name**     | **Gene ID** |
-|-------------------|-----------------|
-| comS              | 938310          |
-| sigB              | 002             |
-| spo0A             | 003             |
-| ftsZ              | 004             |
+| **Gene Name**     | **Gene ID**     |**GenBank ID**   |
+|-------------------|-----------------|-----------------|
+| comS              | 938310          |U10926.1         |
+| sigB              | 002             |                 |
+| spo0A             | 003             |                 |
+| ftsZ              | 004             |                 |
 
 **Repository Structure:**
 
