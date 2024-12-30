@@ -1,0 +1,69 @@
+LOCUS       BSU10926                 570 bp    DNA     linear   BCT 26-JAN-1995
+DEFINITION  Bacillus subtilis 168 genetic competence regulation (comS) gene,
+            complete cds.
+ACCESSION   U10926
+VERSION     U10926.1
+KEYWORDS    .
+SOURCE      Bacillus subtilis subsp. subtilis str. 168
+  ORGANISM  Bacillus subtilis subsp. subtilis str. 168
+            Bacteria; Bacillati; Bacillota; Bacilli; Bacillales; Bacillaceae;
+            Bacillus.
+REFERENCE   1  (bases 1 to 570)
+  AUTHORS   D'Souza,C., Nakano,M.M. and Zuber,P.
+  TITLE     Identification of comS, a gene of the srfA operon that regulates the
+            establishment of genetic competence in Bacillus subtilis
+  JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (20), 9397-9401 (1994)
+   PUBMED   7937777
+REFERENCE   2  (bases 1 to 570)
+  AUTHORS   Fuma,S., Fujishima,Y., Corbell,N., D'Souza,C., Nakano,M.M., Zuber,P.
+            and Yamane,K.
+  TITLE     Nucleotide sequence of 5' portion of srfA that contains the region
+            required for competence establishment in Bacillus subtilus
+  JOURNAL   Nucleic Acids Res. 21 (1), 93-97 (1993)
+   PUBMED   8441623
+REFERENCE   3  (bases 1 to 570)
+  AUTHORS   Zuber,P.A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (16-JUN-1994) Peter A. Zuber, Biochemistry and Molecular
+            Biology, Louisiana State University Medical Center-Shreveport, 1501
+            Kings Highway, Shreveport, LA 71130-3932, USA
+FEATURES             Location/Qualifiers
+     source          1..570
+                     /organism="Bacillus subtilis subsp. subtilis str. 168"
+                     /mol_type="genomic DNA"
+                     /strain="168"
+                     /sub_species="subtilis"
+                     /type_material="type strain of Bacillus subtilis"
+                     /db_xref="taxon:224308"
+                     /map="30 degrees"
+                     /note="sequence similar to srfA2 gene, GenBank Accession
+                     Number X70356, and srfAB gene, GenBank Accession Number
+                     D13262"
+     regulatory      189
+                     /regulatory_class="ribosome_binding_site"
+     gene            211..351
+                     /gene="comS"
+     CDS             211..351
+                     /gene="comS"
+                     /function="regulation of genetic competence"
+                     /experiment="experimental evidence, no additional details
+                     recorded"
+                     /codon_start=1
+                     /transl_table=11
+                     /organism="Bacillus subtilis"
+                     /product="ComS"
+                     /protein_id="AAA61567.1"
+                     /translation="MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWRE
+                     K"
+ORIGIN
+        1 agatctggga aggaatactc ggcgtcaaag caggcgttac cgataacttc tttatgatcg
+       61 gcggccattc tttgaaagcg atgatgatga cggcgaaaat tcaagagcat tttcataagg
+      121 aagttccgat aaaagtgctt tttgaaaagc cgactattca agaactggca ctgtatttgg
+      181 aagagaacga aagcaaggag gagcagacgt ttgaaccgat caggcaagca tcttatcagc
+      241 agcattatcc tgtatccccg gcccagcgga gaatgtatat cctcaatcag cttggacaag
+      301 caaacacaag ctacaacgtc cccgctgtac ttctgctgga gggagaagta gataaagacc
+      361 ggcttgaaaa cgcaattcag caattaatca accggcacga aatcctccgt acatcgtttg
+      421 acatgatcga cggagaggtt gtgcaaaccg ttcataaaaa catatccttc cacctggagg
+      481 ctgccaaggg acgggaagaa gacgcggaag agataatcaa agcatttgtt cagccgtttg
+      541 aattaaaccg cgcgccgctc gtccgttcga
+//
