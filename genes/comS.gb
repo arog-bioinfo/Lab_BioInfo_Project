@@ -10,13 +10,13 @@ SOURCE      Bacillus subtilis subsp. subtilis str. 168
             Bacillus.
 REFERENCE   1  (bases 1 to 570)
   AUTHORS   D'Souza,C., Nakano,M.M. and Zuber,P.
-  TITLE     Identification of comS, a gene of the srfA operon that regulates the
-            establishment of genetic competence in Bacillus subtilis
+  TITLE     Identification of comS, a gene of the srfA operon that regulates
+            the establishment of genetic competence in Bacillus subtilis
   JOURNAL   Proc. Natl. Acad. Sci. U.S.A. 91 (20), 9397-9401 (1994)
    PUBMED   7937777
 REFERENCE   2  (bases 1 to 570)
-  AUTHORS   Fuma,S., Fujishima,Y., Corbell,N., D'Souza,C., Nakano,M.M., Zuber,P.
-            and Yamane,K.
+  AUTHORS   Fuma,S., Fujishima,Y., Corbell,N., D'Souza,C., Nakano,M.M.,
+            Zuber,P. and Yamane,K.
   TITLE     Nucleotide sequence of 5' portion of srfA that contains the region
             required for competence establishment in Bacillus subtilus
   JOURNAL   Nucleic Acids Res. 21 (1), 93-97 (1993)
@@ -53,9 +53,9 @@ FEATURES             Location/Qualifiers
                      /organism="Bacillus subtilis"
                      /product="ComS"
                      /protein_id="AAA61567.1"
-                     /translation="MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWRE
-                     K"
-ORIGIN
+                     /translation="MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR
+                     EK"
+ORIGIN      
         1 agatctggga aggaatactc ggcgtcaaag caggcgttac cgataacttc tttatgatcg
        61 gcggccattc tttgaaagcg atgatgatga cggcgaaaat tcaagagcat tttcataagg
       121 aagttccgat aaaagtgctt tttgaaaagc cgactattca agaactggca ctgtatttgg
@@ -67,3 +67,4 @@ ORIGIN
       481 ctgccaaggg acgggaagaa gacgcggaag agataatcaa agcatttgtt cagccgtttg
       541 aattaaaccg cgcgccgctc gtccgttcga
 //
+
