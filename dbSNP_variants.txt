@@ -1,1 +1,0 @@
-SNP ID	Chromosome	Position	Alleles
