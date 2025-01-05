@@ -16,7 +16,7 @@ The objective of this project is to employ the computational tools learned in th
 | comS              | 938310          | P80355          |
 | sigB              | 002             |                 |
 | spo0A             | 003             |                 |
-| ftsZ              | 004             |                 |
+| ftsZ              | 935971          | P17865          |
 
 **Repository Structure:**
 
