@@ -1,0 +1,23 @@
+# Use an official Python image as the base image
+FROM python:3.9-slim
+
+# Set a working directory in the container
+WORKDIR /app
+
+# Install required system packages
+RUN apt-get update && \
+    apt-get install -y --no-install-recommends clustalo && \
+    apt-get clean && \
+    rm -rf /var/lib/apt/lists/*
+
+# Copy requirements file (if you have one)
+COPY requirements.txt /app/
+
+# Install Python dependencies
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Copy the rest of the application
+COPY . /app
+
+# Set the entry point for the container
+CMD ["python", "analysis_script.py"]

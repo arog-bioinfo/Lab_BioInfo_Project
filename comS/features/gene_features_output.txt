@@ -1,0 +1,24 @@
+Found 2 matching feature(s) for 'comS':
+
+Feature 1: gene
+  Location: [390879:391020](+)
+  Gene: comS
+  Locus_tag: BSU_03500
+  Old_locus_tag: BSU03500
+  Db_xref: GeneID:938310
+
+Feature 2: CDS
+  Location: [390879:391020](+)
+  Gene: comS
+  Locus_tag: BSU_03500
+  Old_locus_tag: BSU03500
+  Function: 16.3: Control
+  Experiment: publication(s) with functional evidences, PMID:10361283, 16554821, 8752331, 9696775, 22720735
+  Note: Evidence 1a: Function from experimental evidences in the studied strain; PubMedId: 10361283, 16554821, 8752331, 9696775, 22720735; Product type r: regulator
+  Codon_start: 1
+  Transl_table: 11
+  Product: regulator of genetic competence
+  Protein_id: NP_388232.1
+  Db_xref: EnsemblGenomes-Gn:BSU03500, EnsemblGenomes-Tr:CAB12144, GOA:P80355, InterPro:IPR035139, SubtiList:BG11045, UniProtKB/Swiss-Prot:P80355, GeneID:938310
+  Translation: MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK
+

@@ -1,0 +1,2757 @@
+<?xml version="1.0" encoding="US-ASCII"?>
+<!DOCTYPE BlastOutput PUBLIC "-//NCBI//NCBI BlastOutput/EN" "http://www.ncbi.nlm.nih.gov/dtd/NCBI_BlastOutput.dtd">
+<BlastOutput>
+  <BlastOutput_program>blastp</BlastOutput_program>
+  <BlastOutput_version>BLASTP 2.16.1+</BlastOutput_version>
+  <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
+  <BlastOutput_db>nr</BlastOutput_db>
+  <BlastOutput_query-ID>Query_8146939</BlastOutput_query-ID>
+  <BlastOutput_query-def>comS [NC_000964.3] Protein translation</BlastOutput_query-def>
+  <BlastOutput_query-len>46</BlastOutput_query-len>
+  <BlastOutput_param>
+    <Parameters>
+      <Parameters_matrix>BLOSUM62</Parameters_matrix>
+      <Parameters_expect>0.05</Parameters_expect>
+      <Parameters_gap-open>11</Parameters_gap-open>
+      <Parameters_gap-extend>1</Parameters_gap-extend>
+      <Parameters_filter>F</Parameters_filter>
+    </Parameters>
+  </BlastOutput_param>
+<BlastOutput_iterations>
+<Iteration>
+  <Iteration_iter-num>1</Iteration_iter-num>
+  <Iteration_query-ID>Query_8146939</Iteration_query-ID>
+  <Iteration_query-def>comS [NC_000964.3] Protein translation</Iteration_query-def>
+  <Iteration_query-len>46</Iteration_query-len>
+<Iteration_hits>
+<Hit>
+  <Hit_num>1</Hit_num>
+  <Hit_id>ref|WP_010886404.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillaceae] &gt;ref|NP_388232.1| regulator of genetic competence [Bacillus subtilis subsp. subtilis str. 168] &gt;sp|P80355.1| RecName: Full=Competence protein S [Bacillus subtilis subsp. subtilis str. 168] &gt;gb|MDP4103212.1| competence protein ComS [Bacillota bacterium] &gt;gb|MFP3820074.1| competence protein ComS [Bacillus sp. SIMBA_008] &gt;gb|AAA61567.1| ComS [Bacillus subtilis subsp. subtilis str. 168] &gt;gb|AFQ56285.1| Regulator of genetic competence [Bacillus subtilis QB928] &gt;gb|AGG59693.1| regulator of genetic competence ComS [Bacillus subtilis subsp. subtilis 6051-HGW]</Hit_def>
+  <Hit_accession>WP_010886404</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>3.42883e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>46</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>2</Hit_num>
+  <Hit_id>ref|WP_250622322.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_250622322</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>97.4413</Hsp_bit-score>
+      <Hsp_score>241</Hsp_score>
+      <Hsp_evalue>4.31893e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSVILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISS+ILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>3</Hit_num>
+  <Hit_id>ref|WP_231516564.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. MBGLi79]</Hit_def>
+  <Hit_accession>WP_231516564</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.6709</Hsp_bit-score>
+      <Hsp_score>239</Hsp_score>
+      <Hsp_evalue>8.92041e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDRQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLD+QTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>4</Hit_num>
+  <Hit_id>gb|WGD72592.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WGD72592</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.6709</Hsp_bit-score>
+      <Hsp_score>239</Hsp_score>
+      <Hsp_evalue>8.92041e-25</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISNIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLIS+IILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>5</Hit_num>
+  <Hit_id>gb|MDH3083023.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis] &gt;gb|WGD89493.1| competence protein ComS [Bacillus subtilis] &gt;gb|WGD92929.1| competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>MDH3083023</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>96.2857</Hsp_bit-score>
+      <Hsp_score>238</Hsp_score>
+      <Hsp_evalue>1.29617e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISKIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLIS IILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>6</Hit_num>
+  <Hit_id>ref|WP_250634839.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis] &gt;gb|MEC2403737.1| competence protein ComS [Bacillus subtilis] &gt;gb|MED4663084.1| competence protein ComS [Bacillus subtilis] &gt;gb|MED4667802.1| competence protein ComS [Bacillus subtilis] &gt;gb|WEZ30560.1| competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_250634839</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.44674e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTKATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDKQT+ATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>7</Hit_num>
+  <Hit_id>ref|WP_250620046.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis] &gt;gb|XMB11653.1| competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_250620046</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.44674e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKKTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDK+TQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>8</Hit_num>
+  <Hit_id>ref|WP_013307914.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|ADM36419.1| regulator of genetic competence [Bacillus spizizenii str. W23] &gt;gb|MCI3986321.1| competence protein ComS [Bacillus vallismortis] &gt;gb|MCI4136758.1| competence protein ComS [Bacillus vallismortis] &gt;gb|MCM3415811.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MCR4391170.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>WP_013307914</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.47889e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPQPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP+PSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>9</Hit_num>
+  <Hit_id>ref|WP_250629511.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_250629511</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.9005</Hsp_bit-score>
+      <Hsp_score>237</Hsp_score>
+      <Hsp_evalue>1.72487e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLNKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISL+KQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>10</Hit_num>
+  <Hit_id>ref|WP_236827566.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCI4169681.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MED0869893.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MED1072999.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MFD3202642.1| competence protein ComS [Bacillus sp. LR_5] &gt;gb|XEW50449.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>WP_236827566</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>2.01176e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATMSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDKQTQAT SPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>11</Hit_num>
+  <Hit_id>ref|WP_225910706.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCM3334009.1| competence protein ComS [Bacillus subtilis] &gt;gb|MCR8900590.1| competence protein ComS [Bacillus subtilis] &gt;gb|MCT6515042.1| competence protein ComS [Bacillus subtilis] &gt;gb|MCX4075104.1| competence protein ComS [Bacillus subtilis] &gt;gb|MDP8528942.1| competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_225910706</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>2.53399e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISCIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLIS IILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>12</Hit_num>
+  <Hit_id>ref|WP_229762786.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCM3190565.1| competence protein ComS [Bacillus subtilis] &gt;gb|MDF4199909.1| competence protein ComS [Bacillus subtilis] &gt;gb|MDF4218484.1| competence protein ComS [Bacillus subtilis] &gt;gb|MDR4913139.1| competence protein ComS [Bacillus subtilis] &gt;gb|MEC2177929.1| competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WP_229762786</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.5153</Hsp_bit-score>
+      <Hsp_score>236</Hsp_score>
+      <Hsp_evalue>2.5903e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECIFSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECI SISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>13</Hit_num>
+  <Hit_id>ref|WP_225516634.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MFP7234313.1| competence protein ComS [Bacillus subtilis] &gt;gb|MCY7751682.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7755916.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7820137.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7938464.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_225516634</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>95.1301</Hsp_bit-score>
+      <Hsp_score>235</Hsp_score>
+      <Hsp_evalue>2.79744e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>14</Hit_num>
+  <Hit_id>gb|MCY9369217.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>MCY9369217</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.7449</Hsp_bit-score>
+      <Hsp_score>234</Hsp_score>
+      <Hsp_evalue>4.06477e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>46</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLINSIILYPQPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLI+SIILYP+PSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>15</Hit_num>
+  <Hit_id>gb|WGD74592.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus subtilis]</Hit_def>
+  <Hit_accession>WGD74592</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.7449</Hsp_bit-score>
+      <Hsp_score>234</Hsp_score>
+      <Hsp_evalue>4.34183e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPLPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP PSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>16</Hit_num>
+  <Hit_id>ref|WP_240467619.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus vallismortis]</Hit_def>
+  <Hit_accession>WP_240467619</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>6.73885e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPQPSGECISSISLDNQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP+PSGECISSISLD QTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>17</Hit_num>
+  <Hit_id>ref|WP_252687654.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus vallismortis]</Hit_def>
+  <Hit_accession>WP_252687654</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>94.3597</Hsp_bit-score>
+      <Hsp_score>233</Hsp_score>
+      <Hsp_evalue>7.68881e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPQPSGECTSSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP+PSGEC SSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>18</Hit_num>
+  <Hit_id>ref|WP_250621922.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus vallismortis] &gt;gb|XDA08717.1| competence protein ComS [Bacillus vallismortis]</Hit_def>
+  <Hit_accession>WP_250621922</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.9745</Hsp_bit-score>
+      <Hsp_score>232</Hsp_score>
+      <Hsp_evalue>9.06674e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPQPSGECISSISLDKQTQATMSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP+PSGECISSISLDKQTQAT SPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>19</Hit_num>
+  <Hit_id>ref|WP_268456160.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus spizizenii] &gt;gb|MCY7867669.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MEC1526261.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MEC2184894.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>WP_268456160</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.9745</Hsp_bit-score>
+      <Hsp_score>232</Hsp_score>
+      <Hsp_evalue>9.06674e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNQSGKHLISSIILYPRPSGECISSISLDKQTQATMSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MN+SGKHLISSIILYPRPSGECISSISLDKQTQAT SPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>20</Hit_num>
+  <Hit_id>ref|WP_227099651.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus stercoris] &gt;gb|MCB7155477.1| competence protein ComS [Bacillus stercoris] &gt;gb|MDQ1854899.1| competence protein ComS [Bacillus stercoris] &gt;gb|MEN9077508.1| competence protein ComS [Bacillus stercoris]</Hit_def>
+  <Hit_accession>WP_227099651</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.9745</Hsp_bit-score>
+      <Hsp_score>232</Hsp_score>
+      <Hsp_evalue>9.4742e-24</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>45</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLYKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISL KQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>21</Hit_num>
+  <Hit_id>gb|MCY7826269.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus spizizenii] &gt;gb|MCY7869979.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MCY8229415.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MCY8799446.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MCY8891628.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>MCY7826269</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.2041</Hsp_bit-score>
+      <Hsp_score>230</Hsp_score>
+      <Hsp_evalue>2.06733e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>45</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPQPSGECISSISLDKQTLATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYP+PSGECISSISLDKQT ATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>22</Hit_num>
+  <Hit_id>ref|WP_232919007.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCE0738771.1| competence protein ComS [Bacillus sp. G16] &gt;gb|MCY7766495.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7903926.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7908658.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7928328.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_232919007</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.2041</Hsp_bit-score>
+      <Hsp_score>230</Hsp_score>
+      <Hsp_evalue>2.09018e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLDKQTQAITSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISLDKQTQA TSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>23</Hit_num>
+  <Hit_id>ref|WP_254610356.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus tequilensis]</Hit_def>
+  <Hit_accession>WP_254610356</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>93.2041</Hsp_bit-score>
+      <Hsp_score>230</Hsp_score>
+      <Hsp_evalue>2.13663e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKQPQATMSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDKQ QAT SPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>24</Hit_num>
+  <Hit_id>ref|WP_268274841.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9012170.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9039983.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9102102.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9124610.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_268274841</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.4337</Hsp_bit-score>
+      <Hsp_score>228</Hsp_score>
+      <Hsp_evalue>4.13138e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGESISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGE ISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>25</Hit_num>
+  <Hit_id>gb|MDZ5722365.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. X(2023)]</Hit_def>
+  <Hit_accession>MDZ5722365</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>92.0485</Hsp_bit-score>
+      <Hsp_score>227</Hsp_score>
+      <Hsp_evalue>5.93739e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLVKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISL KQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>26</Hit_num>
+  <Hit_id>ref|WP_237708005.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDO3661649.1| competence protein ComS [Bacillus sp. C28GYM-DRY-1]</Hit_def>
+  <Hit_accession>WP_237708005</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6633</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>7.81474e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLDKKTQATMSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISLDK+TQAT SPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>27</Hit_num>
+  <Hit_id>ref|WP_268426884.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9176393.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_268426884</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.6633</Hsp_bit-score>
+      <Hsp_score>226</Hsp_score>
+      <Hsp_evalue>7.9884e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFYWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISLDKQTQATTSPLYF WREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>28</Hit_num>
+  <Hit_id>ref|WP_250501457.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MED4649807.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MED4792908.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_250501457</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>91.2781</Hsp_bit-score>
+      <Hsp_score>225</Hsp_score>
+      <Hsp_evalue>9.42001e-23</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>44</Hsp_identity>
+      <Hsp_positive>44</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKLLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS K LISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>29</Hit_num>
+  <Hit_id>ref|WP_229150297.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCC2931960.1| competence protein ComS [Bacillus sp. LBG-1-113] &gt;gb|MCY8104677.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MCY8483706.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MCY8508153.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MCY9093305.1| competence protein ComS [Bacillus mojavensis]</Hit_def>
+  <Hit_accession>WP_229150297</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>90.8929</Hsp_bit-score>
+      <Hsp_score>224</Hsp_score>
+      <Hsp_evalue>1.54463e-22</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECTSSISLDKQAQATTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGEC SSISLDKQ QATTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>30</Hit_num>
+  <Hit_id>ref|WP_268276567.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7901983.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8264577.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8283904.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9455195.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_268276567</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>3.88805e-22</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>43</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISLDKQTQAITSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISLDKQTQA TS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>31</Hit_num>
+  <Hit_id>ref|WP_223203921.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCC2117969.1| competence protein ComS [Bacillus halotolerans] &gt;gb|MCC2528633.1| competence protein ComS [Bacillus halotolerans] &gt;gb|MCK8099170.1| competence protein ComS [Bacillus sp. 2CMS4F] &gt;gb|MCM3355230.1| competence protein ComS [Bacillus halotolerans] &gt;gb|MCP9301357.1| competence protein ComS [Bacillus halotolerans]</Hit_def>
+  <Hit_accession>WP_223203921</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>89.7373</Hsp_bit-score>
+      <Hsp_score>221</Hsp_score>
+      <Hsp_evalue>4.38765e-22</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILFPRPSGECTSSISLDKQAQATTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIIL+PRPSGEC SSISLDKQ QATTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>32</Hit_num>
+  <Hit_id>ref|WP_326130934.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1292624.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1615266.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1623745.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1634842.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1661399.1| competence protein ComS [Bacillus mojavensis]</Hit_def>
+  <Hit_accession>WP_326130934</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.5817</Hsp_bit-score>
+      <Hsp_score>218</Hsp_score>
+      <Hsp_evalue>1.27404e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>42</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECTFSISLDKQAQATTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGEC  SISLDKQ QATTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>33</Hit_num>
+  <Hit_id>ref|WP_229043748.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. AF23] &gt;gb|MCC8353392.1| competence protein ComS [Bacillus sp. AF23]</Hit_def>
+  <Hit_accession>WP_229043748</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>88.1965</Hsp_bit-score>
+      <Hsp_score>217</Hsp_score>
+      <Hsp_evalue>2.11215e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILFPRPSGECTSSISLDKQAQVTTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIIL+PRPSGEC SSISLDKQ Q TTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>34</Hit_num>
+  <Hit_id>ref|WP_286239865.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus halotolerans] &gt;gb|MDL5612604.1| competence protein ComS [Bacillus halotolerans]</Hit_def>
+  <Hit_accession>WP_286239865</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.4261</Hsp_bit-score>
+      <Hsp_score>215</Hsp_score>
+      <Hsp_evalue>3.57941e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>43</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKYLISSIILFPRPSGECTSSISLDKQAQATTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGK+LISSIIL+PRPSGEC SSISLDKQ QATTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>35</Hit_num>
+  <Hit_id>ref|WP_336183874.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. 205(2023)]</Hit_def>
+  <Hit_accession>WP_336183874</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.0409</Hsp_bit-score>
+      <Hsp_score>214</Hsp_score>
+      <Hsp_evalue>5.67888e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILFPRPSGECTSSISLDKQAQATTSLLYFCWRGK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIIL+PRPSGEC SSISLDKQ QATTS LYFCWR K</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>36</Hit_num>
+  <Hit_id>ref|WP_242521232.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus halotolerans]</Hit_def>
+  <Hit_accession>WP_242521232</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>87.0409</Hsp_bit-score>
+      <Hsp_score>214</Hsp_score>
+      <Hsp_evalue>6.06594e-21</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>41</Hsp_identity>
+      <Hsp_positive>42</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILFPRHSGECTSSISLDKQAQATTSLLYFCWREK</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIIL+PR SGEC SSISLDKQ QATTS LYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>37</Hit_num>
+  <Hit_id>ref|WP_268322562.1|</Hit_id>
+  <Hit_def>competence protein ComS, partial [Bacillus inaquosorum] &gt;gb|MCY7789156.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>WP_268322562</Hit_accession>
+  <Hit_len>40</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>84.7297</Hsp_bit-score>
+      <Hsp_score>208</Hsp_score>
+      <Hsp_evalue>3.79358e-20</Hsp_evalue>
+      <Hsp_query-from>7</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>40</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>40</Hsp_identity>
+      <Hsp_positive>40</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>40</Hsp_align-len>
+      <Hsp_qseq>HLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>HLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>HLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>38</Hit_num>
+  <Hit_id>ref|WP_223251907.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_223251907</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>79.7221</Hsp_bit-score>
+      <Hsp_score>195</Hsp_score>
+      <Hsp_evalue>3.71575e-18</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>38</Hsp_identity>
+      <Hsp_positive>39</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFSKRLIKSIILYPRPSEECISSISLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS ECISSISLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>39</Hit_num>
+  <Hit_id>ref|WP_268386898.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8464169.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8479268.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8960222.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8965468.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9440281.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_268386898</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>77.0258</Hsp_bit-score>
+      <Hsp_score>188</Hsp_score>
+      <Hsp_evalue>5.67002e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFSKRLIKSIILYPRPSKGCISSISLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISSISLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>40</Hit_num>
+  <Hit_id>ref|WP_223254972.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8499463.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8523449.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8527364.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8810969.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8814834.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_223254972</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>7.46261e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFSKRLIKSIILYPRPSEGCISSISLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISSISLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>41</Hit_num>
+  <Hit_id>ref|WP_223251813.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCG8397914.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCM3460726.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY7948840.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8097868.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8487812.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_223251813</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>76.6406</Hsp_bit-score>
+      <Hsp_score>187</Hsp_score>
+      <Hsp_evalue>8.14833e-17</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>37</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRYSKRLIKSIILYPRPSEGCISSISLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISSISLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>42</Hit_num>
+  <Hit_id>ref|WP_315917015.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|WNV81667.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_315917015</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>3.59185e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFSKRLIKSIILYPQPSEGCISSISLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYP+PS  CISSISLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>43</Hit_num>
+  <Hit_id>ref|WP_268521920.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8507742.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8952251.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8970022.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_268521920</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>3.63153e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>38</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRYSKRLIKSIILYPRPSEGCISSISLEKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISSISL+KQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>44</Hit_num>
+  <Hit_id>ref|WP_231104944.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|WFE16054.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_231104944</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.7146</Hsp_bit-score>
+      <Hsp_score>182</Hsp_score>
+      <Hsp_evalue>4.42577e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFSKRLIKSIILYPRPSEGCISSTSLDKQAQATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISS SLDKQ QATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>45</Hit_num>
+  <Hit_id>ref|WP_268491413.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9109507.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9198445.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_268491413</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>74.3294</Hsp_bit-score>
+      <Hsp_score>181</Hsp_score>
+      <Hsp_evalue>5.39372e-16</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>36</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRYSKRLIKSIILYPRPSEGCISSISLDKQAQATTSLLYLCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIILYPRPS  CISSISLDKQ QATTS LY CW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>46</Hit_num>
+  <Hit_id>ref|WP_268540621.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8817114.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>WP_268540621</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>72.4034</Hsp_bit-score>
+      <Hsp_score>176</Hsp_score>
+      <Hsp_evalue>3.49257e-15</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>35</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRYSKRLIKCIILYPRPSEGCISSISLDKQAQATTSLLYLCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI  IILYPRPS  CISSISLDKQ QATTS LY CW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>47</Hit_num>
+  <Hit_id>ref|WP_180800290.1|</Hit_id>
+  <Hit_def>competence protein ComS, partial [Vibrio parahaemolyticus]</Hit_def>
+  <Hit_accession>WP_180800290</Hit_accession>
+  <Hit_len>32</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>66.6254</Hsp_bit-score>
+      <Hsp_score>161</Hsp_score>
+      <Hsp_evalue>5.11188e-13</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>32</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>32</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>32</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>32</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQT</Hsp_qseq>
+      <Hsp_hseq>MNRSGKHLISSIILYPRPSGECISSISLDKQT</Hsp_hseq>
+      <Hsp_midline>MNRSGKHLISSIILYPRPSGECISSISLDKQT</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>48</Hit_num>
+  <Hit_id>ref|WP_277814035.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MEW4024906.1| competence protein ComS [Bacillus siamensis] &gt;gb|WZP31462.1| competence protein ComS [Bacillus sp. YBsi01]</Hit_def>
+  <Hit_accession>WP_277814035</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.929</Hsp_bit-score>
+      <Hsp_score>154</Hsp_score>
+      <Hsp_evalue>7.74932e-12</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSGKHLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRSGKHLI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>49</Hit_num>
+  <Hit_id>gb|UZD76026.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>UZD76026</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.51085e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRYGKHLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>MNR GKHLI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>50</Hit_num>
+  <Hit_id>gb|MEG9461444.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>MEG9461444</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.7734</Hsp_bit-score>
+      <Hsp_score>151</Hsp_score>
+      <Hsp_evalue>1.84123e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>51</Hit_num>
+  <Hit_id>ref|WP_269774585.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus amyloliquefaciens group] &gt;gb|MDU0813740.1| competence protein ComS [Bacillus siamensis] &gt;gb|MEC0385516.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC0390144.1| competence protein ComS [Bacillus velezensis] &gt;gb|MED5050116.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED5098454.1| competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>WP_269774585</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>63.1586</Hsp_bit-score>
+      <Hsp_score>152</Hsp_score>
+      <Hsp_evalue>1.8863e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>37</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSGKHLIRSIILFPQHNAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRSGKHLI SIIL+P+ +  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>52</Hit_num>
+  <Hit_id>gb|MCM3250432.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MCR9040534.1| competence protein ComS [Bacillus velezensis] &gt;gb|MCY7427079.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MCZ4246036.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>MCM3250432</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.3882</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>3.40646e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHNAGCISSISLGRPARATTSLLYFCWRDR</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ +  CISSISL +  +ATTS LYFCWR++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>53</Hit_num>
+  <Hit_id>ref|WP_277619496.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus siamensis] &gt;gb|MEW4060736.1| competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>WP_277619496</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.3882</Hsp_bit-score>
+      <Hsp_score>150</Hsp_score>
+      <Hsp_evalue>4.34606e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSGKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKEQ</Hsp_hseq>
+      <Hsp_midline>+NRSGK LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+E+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>54</Hit_num>
+  <Hit_id>gb|UUA86069.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>UUA86069</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>4.4342e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSGKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>MNRSGK LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>55</Hit_num>
+  <Hit_id>ref|WP_320109038.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus siamensis] &gt;gb|MEC3655694.1| competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>WP_320109038</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>5.59491e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRYGKHLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NR GKHLI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>56</Hit_num>
+  <Hit_id>ref|WP_302681560.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_302681560</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>62.003</Hsp_bit-score>
+      <Hsp_score>149</Hsp_score>
+      <Hsp_evalue>6.17616e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>57</Hit_num>
+  <Hit_id>gb|AHK51304.1|</Hit_id>
+  <Hit_def>competence protein [Bacillus velezensis TrigoCor1448] &gt;gb|MBV2197922.1| competence protein ComS [Bacillus velezensis] &gt;gb|MCR4370566.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MER1275000.1| competence protein ComS [Bacillus sp. B1(2022)] &gt;gb|MCM3446157.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>AHK51304</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>8.76261e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>29</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>58</Hit_num>
+  <Hit_id>ref|WP_269387144.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDQ8093674.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEC0967235.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEC1016027.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEC1250381.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEC1834115.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_269387144</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>9.27226e-11</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHNAGCISSISLGRPARATTSLLYFCWRDR</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ +  CISSISL +  +ATTS LYFCWR++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>59</Hit_num>
+  <Hit_id>ref|WP_353638989.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MES5397627.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_353638989</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>61.2326</Hsp_bit-score>
+      <Hsp_score>147</Hsp_score>
+      <Hsp_evalue>1.03485e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHNAGCISSISLGRPARATTSLLYFCWRDR</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ +  CISSISL +  +ATTS LYFCWR++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>60</Hit_num>
+  <Hit_id>ref|WP_269465405.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus]</Hit_def>
+  <Hit_accession>WP_269465405</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.8474</Hsp_bit-score>
+      <Hsp_score>146</Hsp_score>
+      <Hsp_evalue>1.34692e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSGKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRSGK LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>61</Hit_num>
+  <Hit_id>ref|WP_269430500.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MED0773509.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED0775286.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED0781331.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED0834807.1| competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>WP_269430500</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.8474</Hsp_bit-score>
+      <Hsp_score>146</Hsp_score>
+      <Hsp_evalue>1.4074e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSGKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRSGK LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>62</Hit_num>
+  <Hit_id>gb|MFP3636281.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. SIMBA_033] &gt;gb|MFP3685435.1| competence protein ComS [Bacillus sp. SIMBA_026]</Hit_def>
+  <Hit_accession>MFP3636281</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.4622</Hsp_bit-score>
+      <Hsp_score>145</Hsp_score>
+      <Hsp_evalue>1.85204e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>36</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISSISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CISSIS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>63</Hit_num>
+  <Hit_id>ref|WP_372386124.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MFA1794949.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_372386124</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.63186e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRQVRATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>64</Hit_num>
+  <Hit_id>ref|WP_269461319.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MFP3732972.1| competence protein ComS [Bacillus sp. SIMBA_006] &gt;gb|MDL0429466.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEA1006440.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC1108779.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC1136458.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_269461319</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.69031e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>65</Hit_num>
+  <Hit_id>gb|MDJ1630247.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>MDJ1630247</Hit_accession>
+  <Hit_len>53</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>60.077</Hsp_bit-score>
+      <Hsp_score>144</Hsp_score>
+      <Hsp_evalue>2.71757e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>8</Hsp_hit-from>
+      <Hsp_hit-to>51</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>66</Hit_num>
+  <Hit_id>gb|MCA1234275.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MCF6449948.1| competence protein ComS [Bacillus sp. MMG021] &gt;gb|MCM8510434.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MCX2737667.1| competence protein ComS [Bacillus sp. AnS8] &gt;gb|MCX2772604.1| competence protein ComS [Bacillus sp. H2FL2] &gt;gb|MCX2811692.1| competence protein ComS [Bacillus sp. ChL18] &gt;gb|MCX2822502.1| competence protein ComS [Bacillus sp. H1F1] &gt;gb|MCX2853243.1| competence protein ComS [Bacillus sp. KeR2] &gt;gb|MCX8441843.1| competence protein ComS [Bacillus sp. NEAU-CP5] &gt;gb|MCY6277139.1| competence protein ComS [Bacillus sp. NEAU-16] &gt;gb|MDA3609771.1| competence protein ComS [Bacillus sp. NEAU-242-2] &gt;gb|MER1245584.1| competence protein ComS [Bacillus sp. B8(2022)] &gt;gb|MER1256429.1| competence protein ComS [Bacillus sp. B18(2022)] &gt;gb|UHC67177.1| competence protein ComS [Bacillus sp. FCW2] &gt;gb|UJX20066.1| competence protein ComS [Bacillus sp. R45] &gt;gb|WBQ90634.1| competence protein ComS [Bacillus sp. KICET-1]</Hit_def>
+  <Hit_accession>MCA1234275</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.3066</Hsp_bit-score>
+      <Hsp_score>142</Hsp_score>
+      <Hsp_evalue>4.45411e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>67</Hit_num>
+  <Hit_id>ref|WP_285289003.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [unclassified Bacillus (in: firmicutes)]</Hit_def>
+  <Hit_accession>WP_285289003</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>59.3066</Hsp_bit-score>
+      <Hsp_score>142</Hsp_score>
+      <Hsp_evalue>7.07093e-10</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILYPQHSAGCISLTSSGRQARATTSLLYFCWKEQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIILYP+ S  CIS  S  +Q +ATTS LYFCW+E+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>68</Hit_num>
+  <Hit_id>ref|WP_269195014.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDH2303792.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3084596.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDK4203237.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDL5025025.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDM5203999.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_269195014</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.42785e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>69</Hit_num>
+  <Hit_id>ref|WP_302682793.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MDH3092151.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3097920.1| competence protein ComS [Bacillus velezensis] &gt;gb|WGE01610.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_302682793</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.42785e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>70</Hit_num>
+  <Hit_id>ref|WP_269194677.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDF4195307.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MDF4213718.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MDG3092935.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDG5765202.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3079821.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_269194677</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.5362</Hsp_bit-score>
+      <Hsp_score>140</Hsp_score>
+      <Hsp_evalue>1.45956e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>71</Hit_num>
+  <Hit_id>ref|WP_273543123.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_273543123</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>1.59357e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>72</Hit_num>
+  <Hit_id>ref|WP_272914175.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|WHY40400.1| competence protein ComS [Bacillus velezensis] &gt;gb|WWY31140.1| competence protein ComS [Bacillus velezensis] &gt;gb|XBW82611.1| competence protein ComS [Bacillus velezensis] &gt;gb|XCS89401.1| competence protein ComS [Bacillus velezensis] &gt;gb|XCT04477.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_272914175</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>2.00685e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRFDKRLIRSIILFPQHSAGCISLISSDRQARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NR  K LI SIIL+P+ S  CIS IS D+Q +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>73</Hit_num>
+  <Hit_id>ref|WP_269465305.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDF3257575.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDF3269573.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDQ1917706.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDV2630302.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDX8371725.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_269465305</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>2.07406e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>74</Hit_num>
+  <Hit_id>gb|MCA1216807.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MCB7143681.1| competence protein ComS [Bacillus velezensis] &gt;gb|MCC8304917.1| competence protein ComS [Bacillus sp. AF12] &gt;gb|MCY1638966.1| competence protein ComS [Bacillus sp. SL112] &gt;emb|CAE02632.1| ComS protein [Bacillus velezensis FZB42]</Hit_def>
+  <Hit_accession>MCA1216807</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>2.09634e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>28</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>75</Hit_num>
+  <Hit_id>ref|WP_341475203.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_341475203</Hit_accession>
+  <Hit_len>59</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>58.151</Hsp_bit-score>
+      <Hsp_score>139</Hsp_score>
+      <Hsp_evalue>2.13297e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>14</Hsp_hit-from>
+      <Hsp_hit-to>59</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>76</Hit_num>
+  <Hit_id>ref|WP_333472996.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_333472996</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>57.7658</Hsp_bit-score>
+      <Hsp_score>138</Hsp_score>
+      <Hsp_evalue>2.85175e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>35</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIIMFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SII++P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>77</Hit_num>
+  <Hit_id>gb|UUI54648.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>UUI54648</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>4.23441e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRTIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>MNRS K LI +IIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>78</Hit_num>
+  <Hit_id>gb|MCM3370823.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>MCM3370823</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.9954</Hsp_bit-score>
+      <Hsp_score>136</Hsp_score>
+      <Hsp_evalue>5.04806e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>44</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>MNRSDKRLIRSIILFPQHNAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>MNRS K LI SIIL+P+ +  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>79</Hit_num>
+  <Hit_id>ref|WP_012116773.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDF0747174.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3073643.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3105241.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH3137506.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDH5841762.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_012116773</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>6.28703e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>80</Hit_num>
+  <Hit_id>ref|WP_269195032.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MDE5155285.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MDK2559315.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MDV9184934.1| competence protein ComS [Bacillus sp. 31] &gt;gb|MDZ7430622.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|MEB3694071.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_269195032</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>6.49757e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>81</Hit_num>
+  <Hit_id>ref|WP_305175697.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MDP1499337.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_305175697</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.6102</Hsp_bit-score>
+      <Hsp_score>135</Hsp_score>
+      <Hsp_evalue>6.64183e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>82</Hit_num>
+  <Hit_id>ref|WP_369547633.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|XDT01871.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_369547633</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.225</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>8.93375e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>83</Hit_num>
+  <Hit_id>ref|WP_330729091.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEE4558669.1| competence protein ComS [Bacillus velezensis] &gt;gb|XET13959.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_330729091</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.225</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>9.33484e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>84</Hit_num>
+  <Hit_id>ref|WP_326364139.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC3660797.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC3688057.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC3791217.1| competence protein ComS [Bacillus velezensis] &gt;gb|WGD68413.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_326364139</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>56.225</Hsp_bit-score>
+      <Hsp_score>134</Hsp_score>
+      <Hsp_evalue>9.64744e-09</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLTRSIILFPQHSAGCISLISSDRPARATTSLLYFCWKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K L  SIIL+P+ S  CIS IS D+  +ATTS LYFCW+++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>85</Hit_num>
+  <Hit_id>ref|WP_301951978.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_301951978</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>1.32645e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILYPQHSAGCISLISSDRPARAITSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIILYP+ S  CIS IS D+  +A TS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>86</Hit_num>
+  <Hit_id>ref|WP_269434478.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|XIA27818.1| competence protein ComS [Bacillus amyloliquefaciens] &gt;gb|XKL56730.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_269434478</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>1.46422e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRTIILFPQHSAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI +IIL+P+ S  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>87</Hit_num>
+  <Hit_id>gb|MCY9030907.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>MCY9030907</Hit_accession>
+  <Hit_len>28</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.0694</Hsp_bit-score>
+      <Hsp_score>131</Hsp_score>
+      <Hsp_evalue>1.58961e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>28</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>28</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>27</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>28</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISL</Hsp_qseq>
+      <Hsp_hseq>MNRSSKHLISSIILYPRPSGECISSISL</Hsp_hseq>
+      <Hsp_midline>MNRS KHLISSIILYPRPSGECISSISL</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>88</Hit_num>
+  <Hit_id>ref|WP_272949499.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MEC3665462.1| competence protein ComS [Bacillus velezensis] &gt;gb|MFB3899846.1| competence protein ComS [Bacillus amyloliquefaciens]</Hit_def>
+  <Hit_accession>WP_272949499</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.8398</Hsp_bit-score>
+      <Hsp_score>133</Hsp_score>
+      <Hsp_evalue>1.68885e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHNAGCISLISSDRPARATTSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ +  CIS IS D+  +ATTS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>89</Hit_num>
+  <Hit_id>gb|MCC9024421.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus nakamurai] &gt;gb|MCP6681584.1| competence protein ComS [Bacillus nakamurai]</Hit_def>
+  <Hit_accession>MCC9024421</Hit_accession>
+  <Hit_len>46</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.0694</Hsp_bit-score>
+      <Hsp_score>131</Hsp_score>
+      <Hsp_evalue>2.45521e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>46</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>27</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>MNRFDKRLIRSIILFPQHSAGCIFSTSSGRPARATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>MNR  K LI SIIL+P+ S  CI S S  +  +ATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>90</Hit_num>
+  <Hit_id>ref|WP_276203584.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus nakamurai]</Hit_def>
+  <Hit_accession>WP_276203584</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>55.0694</Hsp_bit-score>
+      <Hsp_score>131</Hsp_score>
+      <Hsp_evalue>3.29948e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>33</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRNIILFPQHSAGCIFSTSSGRPARATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI +IIL+P+ S  CI S S  +  +ATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>91</Hit_num>
+  <Hit_id>ref|WP_326254686.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC2313863.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_326254686</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>3.80565e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATMSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +AT S LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>92</Hit_num>
+  <Hit_id>ref|WP_276320285.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC3798359.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_276320285</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>4.24725e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARAITSLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +A TS LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>93</Hit_num>
+  <Hit_id>ref|WP_318526404.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_318526404</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>54.6842</Hsp_bit-score>
+      <Hsp_score>130</Hsp_score>
+      <Hsp_evalue>4.53644e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>44</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>52</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>44</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWR</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTFLLYFCWK</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATT  LYFCW+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>94</Hit_num>
+  <Hit_id>ref|WP_301179044.1|</Hit_id>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus amyloliquefaciens group] &gt;gb|WKD96439.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>WP_301179044</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>8.48164e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>34</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRSDKRLIRSIILFPQHSAGCISLISSDRPARATTSLLYFCCKDQ</Hsp_hseq>
+      <Hsp_midline>+NRS K LI SIIL+P+ S  CIS IS D+  +ATTS LYFC +++</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>95</Hit_num>
+  <Hit_id>ref|WP_269448769.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus nakamurai] &gt;gb|MED1229868.1| competence protein ComS [Bacillus nakamurai]</Hit_def>
+  <Hit_accession>WP_269448769</Hit_accession>
+  <Hit_len>54</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>53.9138</Hsp_bit-score>
+      <Hsp_score>128</Hsp_score>
+      <Hsp_evalue>8.86239e-08</Hsp_evalue>
+      <Hsp_query-from>1</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>9</Hsp_hit-from>
+      <Hsp_hit-to>54</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>26</Hsp_identity>
+      <Hsp_positive>32</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>46</Hsp_align-len>
+      <Hsp_qseq>MNRSGKHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>LNRFDKRLIRSIILFPQHSAGCIFSTSSGRPARATTSLLYFCWKEK</Hsp_hseq>
+      <Hsp_midline>+NR  K LI SIIL+P+ S  CI S S  +  +ATTS LYFCW+EK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>96</Hit_num>
+  <Hit_id>ref|WP_316252448.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus sp. YC2]</Hit_def>
+  <Hit_accession>WP_316252448</Hit_accession>
+  <Hit_len>55</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>51.2174</Hsp_bit-score>
+      <Hsp_score>121</Hsp_score>
+      <Hsp_evalue>1.07126e-06</Hsp_evalue>
+      <Hsp_query-from>6</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>15</Hsp_hit-from>
+      <Hsp_hit-to>55</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>25</Hsp_identity>
+      <Hsp_positive>29</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>41</Hsp_align-len>
+      <Hsp_qseq>KHLISSIILYPRPSGECISSISLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>KRLIRSIILYPLHSAGCISLTSSGRQARATTSLLYFCWKEQ</Hsp_hseq>
+      <Hsp_midline>K LI SIILYP  S  CIS  S  +Q +ATTS LYFCW+E+</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+<Hit>
+  <Hit_num>97</Hit_num>
+  <Hit_id>gb|MCY8463112.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>MCY8463112</Hit_accession>
+  <Hit_len>20</Hit_len>
+  <Hit_hsps>
+    <Hsp>
+      <Hsp_num>1</Hsp_num>
+      <Hsp_bit-score>46.2098</Hsp_bit-score>
+      <Hsp_score>108</Hsp_score>
+      <Hsp_evalue>6.63687e-05</Hsp_evalue>
+      <Hsp_query-from>27</Hsp_query-from>
+      <Hsp_query-to>46</Hsp_query-to>
+      <Hsp_hit-from>1</Hsp_hit-from>
+      <Hsp_hit-to>20</Hsp_hit-to>
+      <Hsp_query-frame>0</Hsp_query-frame>
+      <Hsp_hit-frame>0</Hsp_hit-frame>
+      <Hsp_identity>20</Hsp_identity>
+      <Hsp_positive>20</Hsp_positive>
+      <Hsp_gaps>0</Hsp_gaps>
+      <Hsp_align-len>20</Hsp_align-len>
+      <Hsp_qseq>SLDKQTQATTSPLYFCWREK</Hsp_qseq>
+      <Hsp_hseq>SLDKQTQATTSPLYFCWREK</Hsp_hseq>
+      <Hsp_midline>SLDKQTQATTSPLYFCWREK</Hsp_midline>
+    </Hsp>
+  </Hit_hsps>
+</Hit>
+</Iteration_hits>
+  <Iteration_stat>
+    <Statistics>
+      <Statistics_db-num>861002161</Statistics_db-num>
+      <Statistics_db-len>2119326649</Statistics_db-len>
+      <Statistics_hsp-len>0</Statistics_hsp-len>
+      <Statistics_eff-space>0</Statistics_eff-space>
+      <Statistics_kappa>0.041</Statistics_kappa>
+      <Statistics_lambda>0.267</Statistics_lambda>
+      <Statistics_entropy>0.14</Statistics_entropy>
+    </Statistics>
+  </Iteration_stat>
+</Iteration>
+</BlastOutput_iterations>
+</BlastOutput>
