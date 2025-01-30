@@ -319,7 +319,7 @@ def run_clustalO(input_file, output_file="aligned_sequences.aln", output_dir="cl
     os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
     output_path = os.path.join(output_dir, output_file)  # Full path to the output file
 
-    clustalo_exe = "clustal-omega-1.2.2-win64\\clustalo"  # Path to Clustal Omega executable
+    clustalo_exe = "clustalo"  # Path to Clustal Omega executable
 
     # Command to run Clustal Omega
     command = [
