@@ -1,0 +1,24 @@
+Found 2 matching feature(s) for 'spo0A':
+
+Feature 1: gene
+  Location: [2518022:2518826](-)
+  Gene: spo0A
+  Locus_tag: BSU_24220
+  Old_locus_tag: BSU24220
+  Db_xref: GeneID:938655
+
+Feature 2: CDS
+  Location: [2518022:2518826](-)
+  Gene: spo0A
+  Locus_tag: BSU_24220
+  Old_locus_tag: BSU24220
+  Function: 16.12: Sense, 16.3: Control
+  Experiment: publication(s) with functional evidences, PMID:8504245, 12406209, 15556029, 15808745, 23569226, 26152584, 27148245, 27501195, 28723971
+  Note: Evidence 1a: Function from experimental evidences in the studied strain; PubMedId: 8504245, 12406209, 15556029, 15808745, 23569226, 26152584, 27148245, 27501195, 28723971; Product type r: regulator
+  Codon_start: 1
+  Transl_table: 11
+  Product: response regulator, phosphorylated in response to complex YlbF/YmcA/YaaT
+  Protein_id: NP_390302.1
+  Db_xref: EnsemblGenomes-Gn:BSU24220, EnsemblGenomes-Tr:CAB14353, GOA:P06534, InterPro:IPR001789, InterPro:IPR011006, InterPro:IPR012052, InterPro:IPR014879, InterPro:IPR016032, InterPro:IPR036388, PDB:1LQ1, SubtiList:BG10765, UniProtKB/Swiss-Prot:P06534, GeneID:938655
+  Translation: MEKIKVCVADDNRELVSLLSEYIEGQEDMEVIGVAYNGQECLSLFKEKDPDVLVLDIIMPHLDGLAVLERLRESDLKKQPNVIMLTAFGQEDVTKKAVDLGASYFILKPFDMENLVGHIRQVSGNASSVTHRAPSSQSSIIRSSQPEPKKKNLDASITSIIHEIGVPAHIKGYLYLREAISMVYNDIELLGSITKVLYPDIAKKFNTTASRVERAIRHAIEVAWSRGNIDSISSLFGYTVSMTKAKPTNSEFIAMVADKLRLEHKAS
+
