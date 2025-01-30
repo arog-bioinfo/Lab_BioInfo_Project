@@ -1,0 +1,7 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 97
+Added: Vibrio_parahaemolyticus|WP_180800290.1 | Identity: 100.00% | E-value: 5.15e-13 | Coverage: 0.70
+
+Extraction complete.
+Total sequences extracted: 2
+Sequences saved to comS/homologs\comS_prot_homologs_gap.fasta.

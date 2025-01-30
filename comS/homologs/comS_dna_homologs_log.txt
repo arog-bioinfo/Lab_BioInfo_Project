@@ -1,0 +1,18 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 1331
+Added: Bacillus_sp.|CP024921.1 | Identity: 100.00% | E-value: 1.02e-63 | Coverage: 1.00
+Added: Bacillus_rugosus|CP096590.1 | Identity: 99.29% | E-value: 4.35e-62 | Coverage: 1.00
+Added: Bacillus_stercoris|CP121861.1 | Identity: 98.58% | E-value: 5.30e-61 | Coverage: 1.00
+Added: Bacillus_spizizenii|CP145137.1 | Identity: 98.58% | E-value: 5.30e-61 | Coverage: 1.00
+Added: Bacillus_tequilensis|CP048852.1 | Identity: 98.58% | E-value: 5.30e-61 | Coverage: 1.00
+Added: Bacillus_intestinalis|CP011051.1 | Identity: 97.87% | E-value: 2.26e-59 | Coverage: 1.00
+Added: Bacillus_cabrialesii|CP096889.1 | Identity: 97.87% | E-value: 2.26e-59 | Coverage: 1.00
+Added: Bacillus_inaquosorum|CP096592.1 | Identity: 97.87% | E-value: 2.26e-59 | Coverage: 1.00
+Added: Bacillus_vallismortis|CP026362.1 | Identity: 97.87% | E-value: 2.26e-59 | Coverage: 1.00
+Added: Bacillus_halotolerans|CP026032.1 | Identity: 97.87% | E-value: 2.26e-59 | Coverage: 1.00
+Added: Bacillus_mojavensis|CP051464.1 | Identity: 96.43% | E-value: 4.08e-56 | Coverage: 0.99
+Added: Bacillus_atrophaeus|CP166870.1 | Identity: 90.07% | E-value: 1.02e-44 | Coverage: 1.00
+
+Extraction complete.
+Total sequences extracted: 13
+Sequences saved to comS/homologs\comS_dna_homologs.fasta.

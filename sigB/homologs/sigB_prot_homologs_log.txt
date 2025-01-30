@@ -1,0 +1,27 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillus_sp.|OIR60598.1 | Identity: 99.62% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_stercoris|MCB7155347.1 | Identity: 99.24% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_mojavensis|MCY9089384.1 | Identity: 98.85% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_halotolerans|KUP38394.1 | Identity: 98.85% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_tequilensis|SPU01778.1 | Identity: 98.85% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_inaquosorum|QYX43995.1 | Identity: 98.47% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|MCY9364476.1 | Identity: 98.47% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_vallismortis|MCY7918597.1 | Identity: 97.71% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_atrophaeus|MCY8464037.1 | Identity: 94.66% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_amyloliquefaciens|MBU0446131.1 | Identity: 92.37% | E-value: 8.00e-177 | Coverage: 1.00
+Added: Bacillus_velezensis|AQZ74420.1 | Identity: 92.75% | E-value: 9.22e-177 | Coverage: 1.00
+Added: Bacillus_siamensis|MED5096204.1 | Identity: 91.98% | E-value: 3.19e-175 | Coverage: 1.00
+Added: Pseudomonas_sp.|MBT2712037.1 | Identity: 90.46% | E-value: 3.16e-173 | Coverage: 1.00
+Added: Bacillus_nakamurai|MCP6683333.1 | Identity: 90.46% | E-value: 5.41e-173 | Coverage: 1.00
+Added: Bacillota_bacterium|MDP4113306.1 | Identity: 100.00% | E-value: 2.69e-160 | Coverage: 0.85
+Added: Bacillus_thuringiensis|MDR4181096.1 | Identity: 98.48% | E-value: 7.49e-140 | Coverage: 0.76
+Added: Limosilactobacillus_fermentum|MEW7077414.1 | Identity: 98.28% | E-value: 4.16e-121 | Coverage: 0.66
+Added: Virgibacillus_sp.|MDY7046809.1 | Identity: 99.18% | E-value: 4.57e-78 | Coverage: 0.47
+Added: Planococcus_sp.|MFP3325177.1 | Identity: 90.62% | E-value: 3.24e-54 | Coverage: 0.37
+
+Extraction complete: Maximum sequence count reached.
+
+Extraction complete.
+Total sequences extracted: 20
+Sequences saved to sigB/homologs\sigB_prot_homologs.fasta.

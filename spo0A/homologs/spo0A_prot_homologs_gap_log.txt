@@ -1,0 +1,8 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillaceae_bacterium|MBJ7883756.1 | Identity: 90.79% | E-value: 3.34e-149 | Coverage: 0.85
+Added: Bacillota_bacterium|MDP4087569.1 | Identity: 96.64% | E-value: 2.18e-75 | Coverage: 0.45
+
+Extraction complete.
+Total sequences extracted: 3
+Sequences saved to spo0A/homologs\spo0A_prot_homologs_gap.fasta.

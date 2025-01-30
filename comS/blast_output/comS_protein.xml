@@ -5,7 +5,7 @@
   <BlastOutput_version>BLASTP 2.16.1+</BlastOutput_version>
   <BlastOutput_reference>Stephen F. Altschul, Thomas L. Madden, Alejandro A. Sch&amp;auml;ffer, Jinghui Zhang, Zheng Zhang, Webb Miller, and David J. Lipman (1997), &quot;Gapped BLAST and PSI-BLAST: a new generation of protein database search programs&quot;, Nucleic Acids Res. 25:3389-3402.</BlastOutput_reference>
   <BlastOutput_db>nr</BlastOutput_db>
-  <BlastOutput_query-ID>Query_8146939</BlastOutput_query-ID>
+  <BlastOutput_query-ID>Query_3353135</BlastOutput_query-ID>
   <BlastOutput_query-def>comS [NC_000964.3] Protein translation</BlastOutput_query-def>
   <BlastOutput_query-len>46</BlastOutput_query-len>
   <BlastOutput_param>
@@ -20,7 +20,7 @@
 <BlastOutput_iterations>
 <Iteration>
   <Iteration_iter-num>1</Iteration_iter-num>
-  <Iteration_query-ID>Query_8146939</Iteration_query-ID>
+  <Iteration_query-ID>Query_3353135</Iteration_query-ID>
   <Iteration_query-def>comS [NC_000964.3] Protein translation</Iteration_query-def>
   <Iteration_query-len>46</Iteration_query-len>
 <Iteration_hits>
@@ -35,7 +35,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>97.4413</Hsp_bit-score>
       <Hsp_score>241</Hsp_score>
-      <Hsp_evalue>3.42883e-25</Hsp_evalue>
+      <Hsp_evalue>3.45382e-25</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -63,7 +63,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>97.4413</Hsp_bit-score>
       <Hsp_score>241</Hsp_score>
-      <Hsp_evalue>4.31893e-25</Hsp_evalue>
+      <Hsp_evalue>4.35041e-25</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -91,7 +91,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>96.6709</Hsp_bit-score>
       <Hsp_score>239</Hsp_score>
-      <Hsp_evalue>8.92041e-25</Hsp_evalue>
+      <Hsp_evalue>8.98544e-25</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -119,7 +119,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>96.6709</Hsp_bit-score>
       <Hsp_score>239</Hsp_score>
-      <Hsp_evalue>8.92041e-25</Hsp_evalue>
+      <Hsp_evalue>8.98544e-25</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -147,7 +147,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>96.2857</Hsp_bit-score>
       <Hsp_score>238</Hsp_score>
-      <Hsp_evalue>1.29617e-24</Hsp_evalue>
+      <Hsp_evalue>1.30562e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -175,7 +175,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.9005</Hsp_bit-score>
       <Hsp_score>237</Hsp_score>
-      <Hsp_evalue>1.44674e-24</Hsp_evalue>
+      <Hsp_evalue>1.45728e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -203,7 +203,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.9005</Hsp_bit-score>
       <Hsp_score>237</Hsp_score>
-      <Hsp_evalue>1.44674e-24</Hsp_evalue>
+      <Hsp_evalue>1.45728e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -231,7 +231,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.9005</Hsp_bit-score>
       <Hsp_score>237</Hsp_score>
-      <Hsp_evalue>1.47889e-24</Hsp_evalue>
+      <Hsp_evalue>1.48967e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -259,7 +259,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.9005</Hsp_bit-score>
       <Hsp_score>237</Hsp_score>
-      <Hsp_evalue>1.72487e-24</Hsp_evalue>
+      <Hsp_evalue>1.73744e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -287,7 +287,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.5153</Hsp_bit-score>
       <Hsp_score>236</Hsp_score>
-      <Hsp_evalue>2.01176e-24</Hsp_evalue>
+      <Hsp_evalue>2.02642e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -315,7 +315,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.5153</Hsp_bit-score>
       <Hsp_score>236</Hsp_score>
-      <Hsp_evalue>2.53399e-24</Hsp_evalue>
+      <Hsp_evalue>2.55246e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -343,7 +343,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.5153</Hsp_bit-score>
       <Hsp_score>236</Hsp_score>
-      <Hsp_evalue>2.5903e-24</Hsp_evalue>
+      <Hsp_evalue>2.60918e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -363,7 +363,7 @@
 <Hit>
   <Hit_num>13</Hit_num>
   <Hit_id>ref|WP_225516634.1|</Hit_id>
-  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MFP7234313.1| competence protein ComS [Bacillus subtilis] &gt;gb|MCY7751682.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7755916.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7820137.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7938464.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus] &gt;gb|MCY7751682.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7755916.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7820137.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7938464.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7941655.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
   <Hit_accession>WP_225516634</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
@@ -371,7 +371,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>95.1301</Hsp_bit-score>
       <Hsp_score>235</Hsp_score>
-      <Hsp_evalue>2.79744e-24</Hsp_evalue>
+      <Hsp_evalue>2.81783e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -399,7 +399,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>94.7449</Hsp_bit-score>
       <Hsp_score>234</Hsp_score>
-      <Hsp_evalue>4.06477e-24</Hsp_evalue>
+      <Hsp_evalue>4.0944e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -427,7 +427,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>94.7449</Hsp_bit-score>
       <Hsp_score>234</Hsp_score>
-      <Hsp_evalue>4.34183e-24</Hsp_evalue>
+      <Hsp_evalue>4.37348e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -455,7 +455,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>94.3597</Hsp_bit-score>
       <Hsp_score>233</Hsp_score>
-      <Hsp_evalue>6.73885e-24</Hsp_evalue>
+      <Hsp_evalue>6.78796e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -483,7 +483,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>94.3597</Hsp_bit-score>
       <Hsp_score>233</Hsp_score>
-      <Hsp_evalue>7.68881e-24</Hsp_evalue>
+      <Hsp_evalue>7.74485e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -511,7 +511,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.9745</Hsp_bit-score>
       <Hsp_score>232</Hsp_score>
-      <Hsp_evalue>9.06674e-24</Hsp_evalue>
+      <Hsp_evalue>9.13283e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -530,16 +530,16 @@
 </Hit>
 <Hit>
   <Hit_num>19</Hit_num>
-  <Hit_id>ref|WP_268456160.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus spizizenii] &gt;gb|MCY7867669.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MEC1526261.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MEC2184894.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
-  <Hit_accession>WP_268456160</Hit_accession>
+  <Hit_id>gb|MCY7867669.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus spizizenii] &gt;gb|MEC1526261.1| competence protein ComS [Bacillus spizizenii] &gt;gb|MEC2184894.1| competence protein ComS [Bacillus spizizenii]</Hit_def>
+  <Hit_accession>MCY7867669</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.9745</Hsp_bit-score>
       <Hsp_score>232</Hsp_score>
-      <Hsp_evalue>9.06674e-24</Hsp_evalue>
+      <Hsp_evalue>9.13283e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -567,7 +567,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.9745</Hsp_bit-score>
       <Hsp_score>232</Hsp_score>
-      <Hsp_evalue>9.4742e-24</Hsp_evalue>
+      <Hsp_evalue>9.54325e-24</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -595,7 +595,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.2041</Hsp_bit-score>
       <Hsp_score>230</Hsp_score>
-      <Hsp_evalue>2.06733e-23</Hsp_evalue>
+      <Hsp_evalue>2.0824e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -623,7 +623,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.2041</Hsp_bit-score>
       <Hsp_score>230</Hsp_score>
-      <Hsp_evalue>2.09018e-23</Hsp_evalue>
+      <Hsp_evalue>2.10541e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -651,7 +651,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>93.2041</Hsp_bit-score>
       <Hsp_score>230</Hsp_score>
-      <Hsp_evalue>2.13663e-23</Hsp_evalue>
+      <Hsp_evalue>2.1522e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -670,16 +670,16 @@
 </Hit>
 <Hit>
   <Hit_num>24</Hit_num>
-  <Hit_id>ref|WP_268274841.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9012170.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9039983.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9102102.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9124610.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
-  <Hit_accession>WP_268274841</Hit_accession>
+  <Hit_id>gb|MCY9012170.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9039983.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9102102.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9124610.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>MCY9012170</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>92.4337</Hsp_bit-score>
       <Hsp_score>228</Hsp_score>
-      <Hsp_evalue>4.13138e-23</Hsp_evalue>
+      <Hsp_evalue>4.16149e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -707,7 +707,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>92.0485</Hsp_bit-score>
       <Hsp_score>227</Hsp_score>
-      <Hsp_evalue>5.93739e-23</Hsp_evalue>
+      <Hsp_evalue>5.98067e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -735,7 +735,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>91.6633</Hsp_bit-score>
       <Hsp_score>226</Hsp_score>
-      <Hsp_evalue>7.81474e-23</Hsp_evalue>
+      <Hsp_evalue>7.8717e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -754,16 +754,16 @@
 </Hit>
 <Hit>
   <Hit_num>27</Hit_num>
-  <Hit_id>ref|WP_268426884.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9176393.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
-  <Hit_accession>WP_268426884</Hit_accession>
+  <Hit_id>gb|MCY9176393.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>MCY9176393</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>91.6633</Hsp_bit-score>
       <Hsp_score>226</Hsp_score>
-      <Hsp_evalue>7.9884e-23</Hsp_evalue>
+      <Hsp_evalue>8.04663e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -782,16 +782,16 @@
 </Hit>
 <Hit>
   <Hit_num>28</Hit_num>
-  <Hit_id>ref|WP_250501457.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MED4649807.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MED4792908.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
-  <Hit_accession>WP_250501457</Hit_accession>
+  <Hit_id>gb|MED4649807.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MED4792908.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>MED4649807</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>91.2781</Hsp_bit-score>
       <Hsp_score>225</Hsp_score>
-      <Hsp_evalue>9.42001e-23</Hsp_evalue>
+      <Hsp_evalue>9.48867e-23</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -819,7 +819,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>90.8929</Hsp_bit-score>
       <Hsp_score>224</Hsp_score>
-      <Hsp_evalue>1.54463e-22</Hsp_evalue>
+      <Hsp_evalue>1.55589e-22</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -838,16 +838,16 @@
 </Hit>
 <Hit>
   <Hit_num>30</Hit_num>
-  <Hit_id>ref|WP_268276567.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY7901983.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8264577.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8283904.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9455195.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
-  <Hit_accession>WP_268276567</Hit_accession>
+  <Hit_id>gb|MCY7901983.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8264577.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY8283904.1| competence protein ComS [Bacillus inaquosorum] &gt;gb|MCY9455195.1| competence protein ComS [Bacillus inaquosorum]</Hit_def>
+  <Hit_accession>MCY7901983</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>89.7373</Hsp_bit-score>
       <Hsp_score>221</Hsp_score>
-      <Hsp_evalue>3.88805e-22</Hsp_evalue>
+      <Hsp_evalue>3.91639e-22</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -875,7 +875,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>89.7373</Hsp_bit-score>
       <Hsp_score>221</Hsp_score>
-      <Hsp_evalue>4.38765e-22</Hsp_evalue>
+      <Hsp_evalue>4.41963e-22</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -894,16 +894,16 @@
 </Hit>
 <Hit>
   <Hit_num>32</Hit_num>
-  <Hit_id>ref|WP_326130934.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1292624.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1615266.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1623745.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1634842.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1661399.1| competence protein ComS [Bacillus mojavensis]</Hit_def>
-  <Hit_accession>WP_326130934</Hit_accession>
+  <Hit_id>gb|MEC1292624.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1615266.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1623745.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1634842.1| competence protein ComS [Bacillus mojavensis] &gt;gb|MEC1661399.1| competence protein ComS [Bacillus mojavensis]</Hit_def>
+  <Hit_accession>MEC1292624</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>88.5817</Hsp_bit-score>
       <Hsp_score>218</Hsp_score>
-      <Hsp_evalue>1.27404e-21</Hsp_evalue>
+      <Hsp_evalue>1.28332e-21</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -931,7 +931,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>88.1965</Hsp_bit-score>
       <Hsp_score>217</Hsp_score>
-      <Hsp_evalue>2.11215e-21</Hsp_evalue>
+      <Hsp_evalue>2.12755e-21</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -959,7 +959,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>87.4261</Hsp_bit-score>
       <Hsp_score>215</Hsp_score>
-      <Hsp_evalue>3.57941e-21</Hsp_evalue>
+      <Hsp_evalue>3.60551e-21</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -987,7 +987,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>87.0409</Hsp_bit-score>
       <Hsp_score>214</Hsp_score>
-      <Hsp_evalue>5.67888e-21</Hsp_evalue>
+      <Hsp_evalue>5.72027e-21</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1015,7 +1015,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>87.0409</Hsp_bit-score>
       <Hsp_score>214</Hsp_score>
-      <Hsp_evalue>6.06594e-21</Hsp_evalue>
+      <Hsp_evalue>6.11016e-21</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1043,7 +1043,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>84.7297</Hsp_bit-score>
       <Hsp_score>208</Hsp_score>
-      <Hsp_evalue>3.79358e-20</Hsp_evalue>
+      <Hsp_evalue>3.82123e-20</Hsp_evalue>
       <Hsp_query-from>7</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1071,7 +1071,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>79.7221</Hsp_bit-score>
       <Hsp_score>195</Hsp_score>
-      <Hsp_evalue>3.71575e-18</Hsp_evalue>
+      <Hsp_evalue>3.74283e-18</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1090,16 +1090,16 @@
 </Hit>
 <Hit>
   <Hit_num>39</Hit_num>
-  <Hit_id>ref|WP_268386898.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8464169.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8479268.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8960222.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8965468.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9440281.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
-  <Hit_accession>WP_268386898</Hit_accession>
+  <Hit_id>gb|MCY8464169.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8479268.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8960222.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8965468.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9440281.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>MCY8464169</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>77.0258</Hsp_bit-score>
       <Hsp_score>188</Hsp_score>
-      <Hsp_evalue>5.67002e-17</Hsp_evalue>
+      <Hsp_evalue>5.71134e-17</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1127,7 +1127,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>76.6406</Hsp_bit-score>
       <Hsp_score>187</Hsp_score>
-      <Hsp_evalue>7.46261e-17</Hsp_evalue>
+      <Hsp_evalue>7.51701e-17</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1155,7 +1155,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>76.6406</Hsp_bit-score>
       <Hsp_score>187</Hsp_score>
-      <Hsp_evalue>8.14833e-17</Hsp_evalue>
+      <Hsp_evalue>8.20773e-17</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1183,7 +1183,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>74.7146</Hsp_bit-score>
       <Hsp_score>182</Hsp_score>
-      <Hsp_evalue>3.59185e-16</Hsp_evalue>
+      <Hsp_evalue>3.61803e-16</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1202,16 +1202,16 @@
 </Hit>
 <Hit>
   <Hit_num>43</Hit_num>
-  <Hit_id>ref|WP_268521920.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8507742.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8952251.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8970022.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
-  <Hit_accession>WP_268521920</Hit_accession>
+  <Hit_id>gb|MCY8507742.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8952251.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8970022.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>MCY8507742</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>74.7146</Hsp_bit-score>
       <Hsp_score>182</Hsp_score>
-      <Hsp_evalue>3.63153e-16</Hsp_evalue>
+      <Hsp_evalue>3.658e-16</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1239,7 +1239,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>74.7146</Hsp_bit-score>
       <Hsp_score>182</Hsp_score>
-      <Hsp_evalue>4.42577e-16</Hsp_evalue>
+      <Hsp_evalue>4.45803e-16</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1258,16 +1258,16 @@
 </Hit>
 <Hit>
   <Hit_num>45</Hit_num>
-  <Hit_id>ref|WP_268491413.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9109507.1| competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9198445.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
-  <Hit_accession>WP_268491413</Hit_accession>
+  <Hit_id>gb|MCY9109507.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY9198445.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>MCY9109507</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>74.3294</Hsp_bit-score>
       <Hsp_score>181</Hsp_score>
-      <Hsp_evalue>5.39372e-16</Hsp_evalue>
+      <Hsp_evalue>5.43303e-16</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1286,16 +1286,16 @@
 </Hit>
 <Hit>
   <Hit_num>46</Hit_num>
-  <Hit_id>ref|WP_268540621.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus atrophaeus] &gt;gb|MCY8817114.1| competence protein ComS [Bacillus atrophaeus]</Hit_def>
-  <Hit_accession>WP_268540621</Hit_accession>
+  <Hit_id>gb|MCY8817114.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus atrophaeus]</Hit_def>
+  <Hit_accession>MCY8817114</Hit_accession>
   <Hit_len>46</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>72.4034</Hsp_bit-score>
       <Hsp_score>176</Hsp_score>
-      <Hsp_evalue>3.49257e-15</Hsp_evalue>
+      <Hsp_evalue>3.51803e-15</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1323,7 +1323,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>66.6254</Hsp_bit-score>
       <Hsp_score>161</Hsp_score>
-      <Hsp_evalue>5.11188e-13</Hsp_evalue>
+      <Hsp_evalue>5.14914e-13</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>32</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1351,7 +1351,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>63.929</Hsp_bit-score>
       <Hsp_score>154</Hsp_score>
-      <Hsp_evalue>7.74932e-12</Hsp_evalue>
+      <Hsp_evalue>7.80581e-12</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1379,7 +1379,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>63.1586</Hsp_bit-score>
       <Hsp_score>152</Hsp_score>
-      <Hsp_evalue>1.51085e-11</Hsp_evalue>
+      <Hsp_evalue>1.52187e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1407,7 +1407,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.7734</Hsp_bit-score>
       <Hsp_score>151</Hsp_score>
-      <Hsp_evalue>1.84123e-11</Hsp_evalue>
+      <Hsp_evalue>1.85465e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1427,7 +1427,7 @@
 <Hit>
   <Hit_num>51</Hit_num>
   <Hit_id>ref|WP_269774585.1|</Hit_id>
-  <Hit_def>MULTISPECIES: competence protein ComS [Bacillus amyloliquefaciens group] &gt;gb|MDU0813740.1| competence protein ComS [Bacillus siamensis] &gt;gb|MEC0385516.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC0390144.1| competence protein ComS [Bacillus velezensis] &gt;gb|MED5050116.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED5098454.1| competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_def>competence protein ComS [Bacillus siamensis] &gt;gb|MEC0385516.1| competence protein ComS [Bacillus velezensis] &gt;gb|MDU0813740.1| competence protein ComS [Bacillus siamensis] &gt;gb|MEC0390144.1| competence protein ComS [Bacillus velezensis] &gt;gb|MED5050116.1| competence protein ComS [Bacillus siamensis] &gt;gb|MED5098454.1| competence protein ComS [Bacillus siamensis]</Hit_def>
   <Hit_accession>WP_269774585</Hit_accession>
   <Hit_len>54</Hit_len>
   <Hit_hsps>
@@ -1435,7 +1435,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>63.1586</Hsp_bit-score>
       <Hsp_score>152</Hsp_score>
-      <Hsp_evalue>1.8863e-11</Hsp_evalue>
+      <Hsp_evalue>1.90004e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1463,7 +1463,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.3882</Hsp_bit-score>
       <Hsp_score>150</Hsp_score>
-      <Hsp_evalue>3.40646e-11</Hsp_evalue>
+      <Hsp_evalue>3.43129e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1491,7 +1491,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.3882</Hsp_bit-score>
       <Hsp_score>150</Hsp_score>
-      <Hsp_evalue>4.34606e-11</Hsp_evalue>
+      <Hsp_evalue>4.37774e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1519,7 +1519,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.003</Hsp_bit-score>
       <Hsp_score>149</Hsp_score>
-      <Hsp_evalue>4.4342e-11</Hsp_evalue>
+      <Hsp_evalue>4.46652e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1538,16 +1538,16 @@
 </Hit>
 <Hit>
   <Hit_num>55</Hit_num>
-  <Hit_id>ref|WP_320109038.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus siamensis] &gt;gb|MEC3655694.1| competence protein ComS [Bacillus siamensis]</Hit_def>
-  <Hit_accession>WP_320109038</Hit_accession>
+  <Hit_id>gb|MEC3655694.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus siamensis]</Hit_def>
+  <Hit_accession>MEC3655694</Hit_accession>
   <Hit_len>54</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.003</Hsp_bit-score>
       <Hsp_score>149</Hsp_score>
-      <Hsp_evalue>5.59491e-11</Hsp_evalue>
+      <Hsp_evalue>5.6357e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1575,7 +1575,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>62.003</Hsp_bit-score>
       <Hsp_score>149</Hsp_score>
-      <Hsp_evalue>6.17616e-11</Hsp_evalue>
+      <Hsp_evalue>6.22117e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1603,7 +1603,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>61.2326</Hsp_bit-score>
       <Hsp_score>147</Hsp_score>
-      <Hsp_evalue>8.76261e-11</Hsp_evalue>
+      <Hsp_evalue>8.82648e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1631,7 +1631,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>61.2326</Hsp_bit-score>
       <Hsp_score>147</Hsp_score>
-      <Hsp_evalue>9.27226e-11</Hsp_evalue>
+      <Hsp_evalue>9.33984e-11</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1659,7 +1659,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>61.2326</Hsp_bit-score>
       <Hsp_score>147</Hsp_score>
-      <Hsp_evalue>1.03485e-10</Hsp_evalue>
+      <Hsp_evalue>1.0424e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1687,7 +1687,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.8474</Hsp_bit-score>
       <Hsp_score>146</Hsp_score>
-      <Hsp_evalue>1.34692e-10</Hsp_evalue>
+      <Hsp_evalue>1.35674e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1715,7 +1715,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.8474</Hsp_bit-score>
       <Hsp_score>146</Hsp_score>
-      <Hsp_evalue>1.4074e-10</Hsp_evalue>
+      <Hsp_evalue>1.41766e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1743,7 +1743,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.4622</Hsp_bit-score>
       <Hsp_score>145</Hsp_score>
-      <Hsp_evalue>1.85204e-10</Hsp_evalue>
+      <Hsp_evalue>1.86554e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1771,7 +1771,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.077</Hsp_bit-score>
       <Hsp_score>144</Hsp_score>
-      <Hsp_evalue>2.63186e-10</Hsp_evalue>
+      <Hsp_evalue>2.65105e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1799,7 +1799,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.077</Hsp_bit-score>
       <Hsp_score>144</Hsp_score>
-      <Hsp_evalue>2.69031e-10</Hsp_evalue>
+      <Hsp_evalue>2.70992e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1827,7 +1827,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>60.077</Hsp_bit-score>
       <Hsp_score>144</Hsp_score>
-      <Hsp_evalue>2.71757e-10</Hsp_evalue>
+      <Hsp_evalue>2.73738e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>8</Hsp_hit-from>
@@ -1855,7 +1855,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>59.3066</Hsp_bit-score>
       <Hsp_score>142</Hsp_score>
-      <Hsp_evalue>4.45411e-10</Hsp_evalue>
+      <Hsp_evalue>4.48657e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -1883,7 +1883,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>59.3066</Hsp_bit-score>
       <Hsp_score>142</Hsp_score>
-      <Hsp_evalue>7.07093e-10</Hsp_evalue>
+      <Hsp_evalue>7.12247e-10</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1911,7 +1911,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.5362</Hsp_bit-score>
       <Hsp_score>140</Hsp_score>
-      <Hsp_evalue>1.42785e-09</Hsp_evalue>
+      <Hsp_evalue>1.43826e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1939,7 +1939,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.5362</Hsp_bit-score>
       <Hsp_score>140</Hsp_score>
-      <Hsp_evalue>1.42785e-09</Hsp_evalue>
+      <Hsp_evalue>1.43826e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1967,7 +1967,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.5362</Hsp_bit-score>
       <Hsp_score>140</Hsp_score>
-      <Hsp_evalue>1.45956e-09</Hsp_evalue>
+      <Hsp_evalue>1.4702e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -1995,7 +1995,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.151</Hsp_bit-score>
       <Hsp_score>139</Hsp_score>
-      <Hsp_evalue>1.59357e-09</Hsp_evalue>
+      <Hsp_evalue>1.60519e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2023,7 +2023,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.151</Hsp_bit-score>
       <Hsp_score>139</Hsp_score>
-      <Hsp_evalue>2.00685e-09</Hsp_evalue>
+      <Hsp_evalue>2.02148e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2051,7 +2051,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.151</Hsp_bit-score>
       <Hsp_score>139</Hsp_score>
-      <Hsp_evalue>2.07406e-09</Hsp_evalue>
+      <Hsp_evalue>2.08917e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2079,7 +2079,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>57.7658</Hsp_bit-score>
       <Hsp_score>138</Hsp_score>
-      <Hsp_evalue>2.09634e-09</Hsp_evalue>
+      <Hsp_evalue>2.11162e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2107,7 +2107,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>58.151</Hsp_bit-score>
       <Hsp_score>139</Hsp_score>
-      <Hsp_evalue>2.13297e-09</Hsp_evalue>
+      <Hsp_evalue>2.14852e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>14</Hsp_hit-from>
@@ -2135,7 +2135,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>57.7658</Hsp_bit-score>
       <Hsp_score>138</Hsp_score>
-      <Hsp_evalue>2.85175e-09</Hsp_evalue>
+      <Hsp_evalue>2.87254e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2163,7 +2163,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.9954</Hsp_bit-score>
       <Hsp_score>136</Hsp_score>
-      <Hsp_evalue>4.23441e-09</Hsp_evalue>
+      <Hsp_evalue>4.26527e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2191,7 +2191,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.9954</Hsp_bit-score>
       <Hsp_score>136</Hsp_score>
-      <Hsp_evalue>5.04806e-09</Hsp_evalue>
+      <Hsp_evalue>5.08485e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2219,7 +2219,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.6102</Hsp_bit-score>
       <Hsp_score>135</Hsp_score>
-      <Hsp_evalue>6.28703e-09</Hsp_evalue>
+      <Hsp_evalue>6.33285e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2247,7 +2247,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.6102</Hsp_bit-score>
       <Hsp_score>135</Hsp_score>
-      <Hsp_evalue>6.49757e-09</Hsp_evalue>
+      <Hsp_evalue>6.54493e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2275,7 +2275,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.6102</Hsp_bit-score>
       <Hsp_score>135</Hsp_score>
-      <Hsp_evalue>6.64183e-09</Hsp_evalue>
+      <Hsp_evalue>6.69024e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2303,7 +2303,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.225</Hsp_bit-score>
       <Hsp_score>134</Hsp_score>
-      <Hsp_evalue>8.93375e-09</Hsp_evalue>
+      <Hsp_evalue>8.99886e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2331,7 +2331,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.225</Hsp_bit-score>
       <Hsp_score>134</Hsp_score>
-      <Hsp_evalue>9.33484e-09</Hsp_evalue>
+      <Hsp_evalue>9.40288e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2350,16 +2350,16 @@
 </Hit>
 <Hit>
   <Hit_num>84</Hit_num>
-  <Hit_id>ref|WP_326364139.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC3660797.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC3688057.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC3791217.1| competence protein ComS [Bacillus velezensis] &gt;gb|WGD68413.1| competence protein ComS [Bacillus velezensis]</Hit_def>
-  <Hit_accession>WP_326364139</Hit_accession>
+  <Hit_id>gb|MEC3660797.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC3688057.1| competence protein ComS [Bacillus velezensis] &gt;gb|MEC3791217.1| competence protein ComS [Bacillus velezensis] &gt;gb|WGD68413.1| competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>MEC3660797</Hit_accession>
   <Hit_len>54</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>56.225</Hsp_bit-score>
       <Hsp_score>134</Hsp_score>
-      <Hsp_evalue>9.64744e-09</Hsp_evalue>
+      <Hsp_evalue>9.71776e-09</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2387,7 +2387,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.8398</Hsp_bit-score>
       <Hsp_score>133</Hsp_score>
-      <Hsp_evalue>1.32645e-08</Hsp_evalue>
+      <Hsp_evalue>1.33612e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2415,7 +2415,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.8398</Hsp_bit-score>
       <Hsp_score>133</Hsp_score>
-      <Hsp_evalue>1.46422e-08</Hsp_evalue>
+      <Hsp_evalue>1.47489e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2443,7 +2443,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.0694</Hsp_bit-score>
       <Hsp_score>131</Hsp_score>
-      <Hsp_evalue>1.58961e-08</Hsp_evalue>
+      <Hsp_evalue>1.6012e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>28</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2471,7 +2471,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.8398</Hsp_bit-score>
       <Hsp_score>133</Hsp_score>
-      <Hsp_evalue>1.68885e-08</Hsp_evalue>
+      <Hsp_evalue>1.70116e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2499,7 +2499,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.0694</Hsp_bit-score>
       <Hsp_score>131</Hsp_score>
-      <Hsp_evalue>2.45521e-08</Hsp_evalue>
+      <Hsp_evalue>2.47311e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2527,7 +2527,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>55.0694</Hsp_bit-score>
       <Hsp_score>131</Hsp_score>
-      <Hsp_evalue>3.29948e-08</Hsp_evalue>
+      <Hsp_evalue>3.32353e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2546,16 +2546,16 @@
 </Hit>
 <Hit>
   <Hit_num>91</Hit_num>
-  <Hit_id>ref|WP_326254686.1|</Hit_id>
-  <Hit_def>competence protein ComS [Bacillus velezensis] &gt;gb|MEC2313863.1| competence protein ComS [Bacillus velezensis]</Hit_def>
-  <Hit_accession>WP_326254686</Hit_accession>
+  <Hit_id>gb|MEC2313863.1|</Hit_id>
+  <Hit_def>competence protein ComS [Bacillus velezensis]</Hit_def>
+  <Hit_accession>MEC2313863</Hit_accession>
   <Hit_len>54</Hit_len>
   <Hit_hsps>
     <Hsp>
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>54.6842</Hsp_bit-score>
       <Hsp_score>130</Hsp_score>
-      <Hsp_evalue>3.80565e-08</Hsp_evalue>
+      <Hsp_evalue>3.83339e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2583,7 +2583,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>54.6842</Hsp_bit-score>
       <Hsp_score>130</Hsp_score>
-      <Hsp_evalue>4.24725e-08</Hsp_evalue>
+      <Hsp_evalue>4.27821e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2611,7 +2611,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>54.6842</Hsp_bit-score>
       <Hsp_score>130</Hsp_score>
-      <Hsp_evalue>4.53644e-08</Hsp_evalue>
+      <Hsp_evalue>4.56951e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>44</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2639,7 +2639,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>53.9138</Hsp_bit-score>
       <Hsp_score>128</Hsp_score>
-      <Hsp_evalue>8.48164e-08</Hsp_evalue>
+      <Hsp_evalue>8.54346e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2667,7 +2667,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>53.9138</Hsp_bit-score>
       <Hsp_score>128</Hsp_score>
-      <Hsp_evalue>8.86239e-08</Hsp_evalue>
+      <Hsp_evalue>8.92698e-08</Hsp_evalue>
       <Hsp_query-from>1</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>9</Hsp_hit-from>
@@ -2695,7 +2695,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>51.2174</Hsp_bit-score>
       <Hsp_score>121</Hsp_score>
-      <Hsp_evalue>1.07126e-06</Hsp_evalue>
+      <Hsp_evalue>1.07907e-06</Hsp_evalue>
       <Hsp_query-from>6</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>15</Hsp_hit-from>
@@ -2723,7 +2723,7 @@
       <Hsp_num>1</Hsp_num>
       <Hsp_bit-score>46.2098</Hsp_bit-score>
       <Hsp_score>108</Hsp_score>
-      <Hsp_evalue>6.63687e-05</Hsp_evalue>
+      <Hsp_evalue>6.68525e-05</Hsp_evalue>
       <Hsp_query-from>27</Hsp_query-from>
       <Hsp_query-to>46</Hsp_query-to>
       <Hsp_hit-from>1</Hsp_hit-from>
@@ -2743,8 +2743,8 @@
 </Iteration_hits>
   <Iteration_stat>
     <Statistics>
-      <Statistics_db-num>861002161</Statistics_db-num>
-      <Statistics_db-len>2119326649</Statistics_db-len>
+      <Statistics_db-num>867274631</Statistics_db-num>
+      <Statistics_db-len>219052565</Statistics_db-len>
       <Statistics_hsp-len>0</Statistics_hsp-len>
       <Statistics_eff-space>0</Statistics_eff-space>
       <Statistics_kappa>0.041</Statistics_kappa>

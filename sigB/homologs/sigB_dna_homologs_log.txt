@@ -1,0 +1,17 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 7159
+Added: Bacillus_sp.|CP091872.1 | Identity: 100.00% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_stercoris|AP029050.1 | Identity: 97.59% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_inaquosorum|CP096592.1 | Identity: 95.69% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_cabrialesii|CP096889.1 | Identity: 95.44% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|CP145137.1 | Identity: 95.44% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_rugosus|CP096590.1 | Identity: 95.18% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_intestinalis|CP011051.1 | Identity: 94.68% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_vallismortis|CP026362.1 | Identity: 94.42% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_tequilensis|CP048852.1 | Identity: 94.42% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_halotolerans|CP101718.1 | Identity: 92.40% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_mojavensis|CP051464.1 | Identity: 92.02% | E-value: 0.00e+00 | Coverage: 1.00
+
+Extraction complete.
+Total sequences extracted: 12
+Sequences saved to sigB/homologs\sigB_dna_homologs.fasta.
