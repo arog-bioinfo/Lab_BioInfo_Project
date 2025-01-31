@@ -9,7 +9,7 @@
 
 **Project Description:**
 
-The objective of this project is to employ the computational tools learned in the Bioinformatics Laboratory course to conduct an analysis of a selected set of genes from human gut microorganisms.
+The objective of this project is to employ the computational tools learned in the Bioinformatics Laboratory course to conduct an analysis of a selected set of genes from human gut microorganisms. The chosen microorganims by our group is Bacillus subtilis and these are the genes chosen for analysis:
 
 | **Gene Name**     | **Gene ID**     |  **UniProt ID** |
 |-------------------|-----------------|-----------------|
@@ -20,13 +20,14 @@ The objective of this project is to employ the computational tools learned in th
 
 **Repository Structure:**
 
-- **`Genome/`**: Contains genomic sequence files used for analysis.
-- **`blast_output/`**: Includes output files from BLAST searches.
-- **`clustal-omega-1.2.2-win64/`**: Clustal Omega for Windows.
-- **`clustal_output/`**: Results of sequence alignment tasks using Clustal Omega.
-- **`extracted_seqs/`**: Directory for storing extracted sequences (dna/protein) from genome in FASTA format.
-- **`future_docker/`**: Reserved for Docker implementation-related files.
-- **`homologs/`**: Contains homologous sequences for multialignment and phylogenetic analysis.
-- **`tree_output/`**: Stores phylogenetic tree files generated during analysis.
-- **`script.ipynb`**: Biopython script
-
+- **`genome/`**: Contains genomic sequence files used for analysis.
+- **`comS/`**: Directory for comS gene-specific analysis.
+- **`ftsZ/`**: Directory for ftsZ gene-specific analysis.
+- **`sigB/`**: Directory for sigB gene-specific analysis.
+- **`spo0A/`**: Directory for spo0A gene-specific analysis.
+- **`_clustal-omega-1.2.2-win64/`**: Clustal Omega for Windows.
+- **`_docker/`**: Reserved for Docker implementation-related files.
+- **`_docker_results/`**: Stores results from Docker-based analysis.
+- **`LICENSE`**: License information for the repository.
+- **`README.md`**: Documentation and project details.
+- **`script.ipynb`**: Jupyter Notebook containing Biopython scripts and analyses.

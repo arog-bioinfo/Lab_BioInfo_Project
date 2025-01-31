@@ -1,9 +1,0 @@
-Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
-Total alignments found: 10000
-Added: Delivery_vector|DQ486035.1 | Identity: 99.37% | E-value: 0.00e+00 | Coverage: 0.42
-Added: Bacillaceae_bacterium|CP025518.1 | Identity: 91.11% | E-value: 3.82e-05 | Coverage: 0.04
-Added: Pradoshia_sp.|CP044545.1 | Identity: 90.91% | E-value: 1.33e-04 | Coverage: 0.04
-
-Extraction complete.
-Total sequences extracted: 4
-Sequences saved to ftsZ/homologs\ftsZ_dna_homologs_gap.fasta.

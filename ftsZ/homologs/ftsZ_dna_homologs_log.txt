@@ -1,22 +1,22 @@
 Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
 Total alignments found: 10000
-Added: Bacillus_sp.|CP041757.1 | Identity: 100.00% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_sp.|CP150162.1 | Identity: 100.00% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_stercoris|AP029050.1 | Identity: 97.04% | E-value: 0.00e+00 | Coverage: 1.00
-Added: Bacillus_spizizenii|CP145137.1 | Identity: 96.26% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|CP167793.1 | Identity: 96.26% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_intestinalis|CP011051.1 | Identity: 95.74% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_tequilensis|CP048852.1 | Identity: 95.65% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_cabrialesii|CP096889.1 | Identity: 95.56% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_inaquosorum|CP029465.1 | Identity: 95.39% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_rugosus|CP096590.1 | Identity: 94.98% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_vallismortis|CP092751.1 | Identity: 94.78% | E-value: 0.00e+00 | Coverage: 1.00
-Added: Bacillus_halotolerans|CP158194.1 | Identity: 90.25% | E-value: 0.00e+00 | Coverage: 1.00
-Added: Bacillus_velezensis|CP091288.1 | Identity: 93.88% | E-value: 1.85e-53 | Coverage: 0.13
+Added: Bacillus_halotolerans|CP098738.1 | Identity: 90.25% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_velezensis|CP091288.1 | Identity: 93.88% | E-value: 1.76e-53 | Coverage: 0.13
 Added: Delivery_vector|DQ486035.1 | Identity: 99.37% | E-value: 0.00e+00 | Coverage: 0.42
-Added: Aeribacillus_sp.|CP150189.1 | Identity: 91.11% | E-value: 3.82e-05 | Coverage: 0.04
-Added: Aeribacillus_composti|CP134501.1 | Identity: 91.11% | E-value: 3.82e-05 | Coverage: 0.04
-Added: Bacillaceae_bacterium|CP025518.1 | Identity: 91.11% | E-value: 3.82e-05 | Coverage: 0.04
-Added: Pradoshia_sp.|CP044545.1 | Identity: 90.91% | E-value: 1.33e-04 | Coverage: 0.04
-Added: Pontibacillus_sp.|CP062974.1 | Identity: 92.68% | E-value: 4.65e-04 | Coverage: 0.04
+Added: Aeribacillus_composti|CP134501.1 | Identity: 91.11% | E-value: 3.64e-05 | Coverage: 0.04
+Added: Aeribacillus_sp.|CP150189.1 | Identity: 91.11% | E-value: 3.64e-05 | Coverage: 0.04
+Added: Bacillaceae_bacterium|CP025518.1 | Identity: 91.11% | E-value: 3.64e-05 | Coverage: 0.04
+Added: Pradoshia_sp.|CP044545.1 | Identity: 90.91% | E-value: 1.27e-04 | Coverage: 0.04
+Added: Pontibacillus_sp.|CP062974.1 | Identity: 92.68% | E-value: 4.44e-04 | Coverage: 0.04
 
 Extraction complete.
 Total sequences extracted: 18

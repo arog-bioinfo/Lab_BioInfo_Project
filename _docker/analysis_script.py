@@ -588,18 +588,18 @@ def full_analysis(annotated_RefSeq, genes, species):
         get_and_save_homologous(
             file_name=f"{gene}/blast_output/{gene}_dna.xml",
             query_fasta=f"{gene}/extracted_seqs/{gene}_dna.fasta",
-            output_file=f"{gene}_dna_homologs_gap.fasta",
+            output_file=f"{gene}_dna_homologs_far.fasta",
             exclude=[genus, species],
             output_dir=f"{gene}/homologs",
-            log_file_name = f"{gene}_dna_homologs_gap_log.txt"
+            log_file_name = f"{gene}_dna_homologs_far_log.txt"
         )
         get_and_save_homologous(
             file_name=f"{gene}/blast_output/{gene}_protein.xml",
             query_fasta=f"{gene}/extracted_seqs/{gene}_protein.fasta",
-            output_file=f"{gene}_prot_homologs_gap.fasta",
+            output_file=f"{gene}_prot_homologs_far.fasta",
             exclude=[genus, species],
             output_dir=f"{gene}/homologs",
-            log_file_name = f"{gene}_prot_homologs_gap_log.txt"
+            log_file_name = f"{gene}_prot_homologs_far_log.txt"
         )
 
         # Perform multiple sequence alignment using ClustalO, saving results in the "clustal_output" directory

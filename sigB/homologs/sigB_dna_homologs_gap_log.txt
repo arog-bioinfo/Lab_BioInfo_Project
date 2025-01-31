@@ -1,6 +1,0 @@
-Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
-Total alignments found: 7159
-
-Extraction complete.
-Total sequences extracted: 1
-Sequences saved to sigB/homologs\sigB_dna_homologs_gap.fasta.

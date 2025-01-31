@@ -17,7 +17,7 @@ Added: Bacillus_nakamurai|MED1228709.1 | Identity: 94.52% | E-value: 0.00e+00 | 
 Added: Bacillus_swezeyi|TYS38324.1 | Identity: 92.65% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_paralicheniformis|MPQ26156.1 | Identity: 92.65% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_haynesii|MCY8018501.1 | Identity: 92.39% | E-value: 0.00e+00 | Coverage: 1.00
-Added: Bacillus_licheniformis|AAU40641.1 | Identity: 92.39% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_licheniformis|AAU23284.1 | Identity: 92.39% | E-value: 0.00e+00 | Coverage: 1.00
 Added: Bacillus_sonorensis|MCY7855331.1 | Identity: 91.60% | E-value: 0.00e+00 | Coverage: 1.00
 
 Extraction complete: Maximum sequence count reached.
