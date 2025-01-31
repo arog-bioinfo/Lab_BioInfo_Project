@@ -1,0 +1,6 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 1331
+
+Extraction complete.
+Total sequences extracted: 1
+Sequences saved to comS/homologs/comS_dna_homologs_gap.fasta.

@@ -1,0 +1,27 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillus_inaquosorum|MCY8726506.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_halotolerans|KUP41977.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_vallismortis|MCY7917602.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_sp.|WP_341032268.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_mojavensis|MFO3787748.1 | Identity: 99.25% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|WP_019714921.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_cabrialesii|UQE77566.1 | Identity: 99.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_velezensis|WYM67971.1 | Identity: 97.00% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_siamensis|MEW4022495.1 | Identity: 96.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_nakamurai|MED1229406.1 | Identity: 97.00% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_amyloliquefaciens|MDH3090693.1 | Identity: 96.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_atrophaeus|MCG8397794.1 | Identity: 96.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_licheniformis|AAU41467.1 | Identity: 93.63% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_sonorensis|MCY7856587.1 | Identity: 94.01% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_glycinifermentans|MEC0484852.1 | Identity: 94.01% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_haynesii|EWH21125.1 | Identity: 93.26% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_swezeyi|WP_307891971.1 | Identity: 93.26% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_paralicheniformis|MCJ8229935.1 | Identity: 93.26% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_changyiensis|MDA7027009.1 | Identity: 92.51% | E-value: 2.72e-180 | Coverage: 1.00
+
+Extraction complete: Maximum sequence count reached.
+
+Extraction complete.
+Total sequences extracted: 20
+Sequences saved to spo0A/homologs/spo0A_prot_homologs.fasta.

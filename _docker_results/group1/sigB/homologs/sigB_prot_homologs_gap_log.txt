@@ -1,0 +1,8 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillota_bacterium|MDP4113306.1 | Identity: 100.00% | E-value: 2.69e-160 | Coverage: 0.85
+Added: Planococcus_sp.|MFP3325177.1 | Identity: 90.62% | E-value: 3.24e-54 | Coverage: 0.37
+
+Extraction complete.
+Total sequences extracted: 3
+Sequences saved to sigB/homologs/sigB_prot_homologs_gap.fasta.

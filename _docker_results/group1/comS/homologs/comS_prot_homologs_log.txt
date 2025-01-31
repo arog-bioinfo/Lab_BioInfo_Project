@@ -1,0 +1,15 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 97
+Added: Bacillus_sp.|WP_231516564.1 | Identity: 97.83% | E-value: 8.99e-25 | Coverage: 1.00
+Added: Bacillus_spizizenii|MCR4391170.1 | Identity: 97.83% | E-value: 1.49e-24 | Coverage: 1.00
+Added: Bacillus_inaquosorum|MCY7941655.1 | Identity: 97.83% | E-value: 2.82e-24 | Coverage: 1.00
+Added: Bacillus_vallismortis|WP_240467619.1 | Identity: 95.65% | E-value: 6.79e-24 | Coverage: 1.00
+Added: Bacillus_stercoris|MEN9077508.1 | Identity: 97.83% | E-value: 9.54e-24 | Coverage: 1.00
+Added: Bacillus_tequilensis|WP_254610356.1 | Identity: 95.65% | E-value: 2.15e-23 | Coverage: 1.00
+Added: Bacillus_mojavensis|MCY9093305.1 | Identity: 93.48% | E-value: 1.56e-22 | Coverage: 1.00
+Added: Bacillus_halotolerans|MCP9301357.1 | Identity: 91.30% | E-value: 4.42e-22 | Coverage: 1.00
+Added: Vibrio_parahaemolyticus|WP_180800290.1 | Identity: 100.00% | E-value: 5.15e-13 | Coverage: 0.70
+
+Extraction complete.
+Total sequences extracted: 10
+Sequences saved to comS/homologs/comS_prot_homologs.fasta.

@@ -1,0 +1,31 @@
+#Using this folder as working directory
+
+#build image from dockerfile
+
+docker build -t gene_analysis .
+
+#run container
+
+docker run --rm -it -v /home/user/Desktop/analysis_results:/results gene_analysis bash
+
+#run script inside container terminal
+
+python3
+import analysis_script
+
+#Examples
+#for group 1
+analysis_script.full_analysis("NC_000964.3", ["comS", "sigB", "spo0A", "ftsZ"], "Bacillus subtilis")
+
+#for group 2 (testing reproducibility)
+analysis_script.full_analysis("NZ_CP040530.1", ["dinB", "dnaA", "susG", "FE838_RS15320"], "Bacteroides thetaiotaomicron")
+
+#exit python
+exit()
+
+#copy results to volume directory
+tar --exclude='analysis_script.py' --exclude='clustalo' --exclude='__pycache__' -cf - -C /app . | tar -xf - -C /results/
+
+#exit container
+
+

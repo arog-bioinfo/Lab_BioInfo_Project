@@ -1,0 +1,18 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 4129
+Added: Bacillus_sp.|CP024921.1 | Identity: 100.00% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_stercoris|CP126678.1 | Identity: 98.13% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_inaquosorum|CP096592.1 | Identity: 96.77% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_intestinalis|CP011051.1 | Identity: 96.64% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|CP148102.1 | Identity: 96.64% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_rugosus|CP096590.1 | Identity: 96.02% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_tequilensis|CP048852.1 | Identity: 95.90% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_cabrialesii|CP096889.1 | Identity: 95.27% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_vallismortis|CP092751.1 | Identity: 95.02% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_halotolerans|CP026032.1 | Identity: 94.15% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_mojavensis|CP127833.1 | Identity: 92.41% | E-value: 0.00e+00 | Coverage: 1.00
+Added: BACSUR0B_Bacillis|M23656.1 | Identity: 100.00% | E-value: 2.31e-12 | Coverage: 0.06
+
+Extraction complete.
+Total sequences extracted: 13
+Sequences saved to spo0A/homologs/spo0A_dna_homologs.fasta.

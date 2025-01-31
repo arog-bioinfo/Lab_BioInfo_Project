@@ -102,60 +102,60 @@ def extract_gene_features(filename, gene_name, output_file="gene_features_output
 
 def plot_amino_acid_composition(fasta_file, output_dir="ProtParagram", output_file="amino_acid_composition.png"):
     """
-    Gera um gráfico de barras mostrando a composição de aminoácidos de uma sequência proteica
-    a partir de um arquivo FASTA e salva no diretório especificado.
+    Generates a bar chart showing the amino acid composition of a protein sequence
+    from a FASTA file and saves it in the specified directory.
 
-    Parâmetros:
-    fasta_file (str): Caminho para o arquivo FASTA contendo a sequência proteica.
-    output_dir (str): Diretório onde o gráfico será salvo.
-    output_file (str): Nome do arquivo de saída para o gráfico.
+    Parameters:
+    fasta_file (str): Path to the FASTA file containing the protein sequence.
+    output_dir (str): Directory where the plot will be saved.
+    output_file (str): Name of the output file for the plot.
     """
-    # Criar diretório de saída se não existir
+    # Create output directory if it does not exist
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
 
-    # Ler a sequência proteica do arquivo FASTA
+    # Read the protein sequence from the FASTA file
     with open(fasta_file, "r") as handle:
-        record = next(SeqIO.parse(handle, "fasta"))  # Ler a primeira sequência do arquivo
+        record = next(SeqIO.parse(handle, "fasta"))  # Read the first sequence from the file
         sequence = str(record.seq)
     
-    # Análise da sequência proteica
+    # Analyze the protein sequence
     analysis = ProteinAnalysis(sequence)
     composition = analysis.get_amino_acids_percent()
 
-    # Ordenar aminoácidos
+    # Sort amino acids
     amino_acids = sorted(composition.keys())
-    percentages = [composition[aa] * 100 for aa in amino_acids]  # Converter para porcentagem
+    percentages = [composition[aa] * 100 for aa in amino_acids]  # Convert to percentage
 
-    # Definir cores para cada barra
-    colors = pyplot.cm.tab20(range(len(amino_acids)))  # Usar um colormap com 20 cores distintas
+    # Define colors for each bar
+    colors = pyplot.cm.tab20(range(len(amino_acids)))  # Use a colormap with 20 distinct colors
 
-    # Criar gráfico de barras
+    # Create bar chart
     pyplot.figure(figsize=(10, 6))
     bars = pyplot.bar(amino_acids, percentages, color=colors)
-    pyplot.xlabel('Aminoácidos')
-    pyplot.ylabel('Porcentagem (%)')
-    pyplot.title('Composição de Aminoácidos')
+    pyplot.xlabel('Amino Acids')
+    pyplot.ylabel('Percentage (%)')
+    pyplot.title('Amino Acid Composition')
 
-    # Adicionar rótulos de porcentagem acima de cada barra
+    # Add percentage labels above each bar
     for bar, percentage in zip(bars, percentages):
         yval = bar.get_height()
         pyplot.text(bar.get_x() + bar.get_width()/2, yval + 0.5, f'{percentage:.2f}%', ha='center', va='bottom')
 
-    # Salvar o gráfico no diretório especificado
+    # Save the plot in the specified directory
     pyplot.savefig(output_path, dpi=300, bbox_inches='tight')
     pyplot.close()
 
-    print(f"Gráfico salvo em: {output_path}")
+    print(f"Plot saved at: {output_path}")
 
 def plot_protein_properties(fasta_file, output_dir="ProtParagram", output_file="protein_properties.png"):
     """
-    Gera um gráfico de radar mostrando propriedades de uma proteína a partir de um arquivo FASTA e salva no diretório especificado.
+    Generates a radar plot showing protein properties from a FASTA file and saves it in the specified directory.
     
-    Parâmetros:
-    fasta_file (str): Caminho para o arquivo FASTA contendo a sequência proteica.
-    output_dir (str): Diretório onde o gráfico será salvo.
-    output_file (str): Nome do arquivo de saída para o gráfico.
+    Parameters:
+    fasta_file (str): Path to the FASTA file containing the protein sequence.
+    output_dir (str): Directory where the plot will be saved.
+    output_file (str): Name of the output file for the plot.
     """
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
@@ -167,11 +167,11 @@ def plot_protein_properties(fasta_file, output_dir="ProtParagram", output_file="
     analysis = ProteinAnalysis(sequence)
     
     properties = {
-        'Peso Molecular (kDa)': analysis.molecular_weight() / 1000,
-        'Ponto Isoelétrico': analysis.isoelectric_point(),
-        'Instabilidade': analysis.instability_index(),
-        'Hidrofobicidade': analysis.gravy(),
-        'Aromaticidade (%)': analysis.aromaticity() * 100
+        'Molecular Weight (kDa)': analysis.molecular_weight() / 1000,
+        'Isoelectric Point': analysis.isoelectric_point(),
+        'Instability': analysis.instability_index(),
+        'Hydrophobicity': analysis.gravy(),
+        'Aromaticity (%)': analysis.aromaticity() * 100
     }
     
     labels = list(properties.keys())
@@ -188,10 +188,10 @@ def plot_protein_properties(fasta_file, output_dir="ProtParagram", output_file="
     for angle, value, label in zip(angles, values, labels):
         ax.text(angle, value, f'{value:.2f}', horizontalalignment='center', size=10, color='black', weight='semibold')
 
-    pyplot.title('Propriedades da Proteína')
+    pyplot.title('Protein Properties')
     pyplot.savefig(output_path, dpi=300, bbox_inches='tight')
     pyplot.close()
-    print(f"Gráfico salvo em: {output_path}")
+    print(f"Plot saved at: {output_path}")
 
 def extract_gene(genome_file, gene_name, output_dir="extracted_seqs"):
     """
@@ -474,40 +474,40 @@ def build_trees(file_name, file_type="clustal", gene="", matrix="blosum62", outp
 
 def highlight_homo_clade_and_remove_inner(upgma_file, output_dir="tree_output", output_file="upgma_tree.png"):
     """
-    Lê a árvore filogenética UPGMA, remove os rótulos 'Inner' e destaca o clado com o gênero 'Homo'.
+    Reads the UPGMA phylogenetic tree, removes 'Inner' labels, and highlights the clade with the genus 'Homo'.
     
     Args:
-        upgma_file (str): Caminho para o arquivo da árvore UPGMA (formato Newick).
-        output_dir (str): Diretório onde o gráfico será salvo.
-        output_file (str): Nome do arquivo de saída para o gráfico.
+        upgma_file (str): Path to the UPGMA tree file (Newick format).
+        output_dir (str): Directory where the plot will be saved.
+        output_file (str): Name of the output file for the plot.
     """
     os.makedirs(output_dir, exist_ok=True)
     output_path = os.path.join(output_dir, output_file)
     
-    # Leia a árvore
+    # Read the tree
     upgmatree = Phylo.read(upgma_file, 'newick')
 
-    # Remove os rótulos 'Inner' dos clados da árvore UPGMA
+    # Remove 'Inner' labels from UPGMA tree clades
     for clade in upgmatree.find_clades():
         if clade.name and 'Inner' in clade.name:
             clade.name = ""
 
-    # Encontra e destaca o clado com o gênero "Homo" na árvore UPGMA
+    # Find and highlight the clade with the genus "Homo" in the UPGMA tree
     for clade in upgmatree.find_clades():
         if clade.name and 'Query' in clade.name:
             clade.color = 'orange'
             clade.name = '*** ' + clade.name + ' ***'
 
-    # Ajusta o tamanho da figura
+    # Adjust figure size
     fig, ax = pyplot.subplots(figsize=(22, 10), dpi=100)
     rc('font', size=12)
     Phylo.draw(upgmatree, do_show=False, axes=ax)
     pyplot.title("UPGMA Tree")
 
-    # Salvar a árvore no diretório especificado
+    # Save the tree in the specified directory
     pyplot.savefig(output_path, dpi=300, bbox_inches='tight')
     pyplot.close()
-    print(f"Árvore UPGMA salva em: {output_path}")
+    print(f"UPGMA tree saved at: {output_path}")
 
 def full_analysis(annotated_RefSeq, genes, species):
     """

@@ -1,0 +1,9 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillota_bacterium|MDP4123285.1 | Identity: 99.74% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Sporosarcina_sp.|HEX5563722.1 | Identity: 90.64% | E-value: 9.18e-168 | Coverage: 0.78
+Added: Rhodococcus_erythropolis|MBS2993659.1 | Identity: 98.69% | E-value: 8.55e-155 | Coverage: 0.60
+
+Extraction complete.
+Total sequences extracted: 4
+Sequences saved to ftsZ/homologs/ftsZ_prot_homologs_gap.fasta.

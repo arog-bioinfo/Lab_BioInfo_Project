@@ -1,0 +1,27 @@
+Starting extraction with criteria: E-value < 0.05, Identity > 90%, Coverage > 0.7
+Total alignments found: 10000
+Added: Bacillus_tequilensis|SPU01177.1 | Identity: 99.74% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillota_bacterium|MDP4123285.1 | Identity: 99.74% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_sp.|WP_336154641.1 | Identity: 99.74% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_inaquosorum|MCY9075306.1 | Identity: 99.48% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_spizizenii|WP_019714336.1 | Identity: 99.48% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_vallismortis|MFH0345575.1 | Identity: 99.48% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_rugosus|UPV80681.1 | Identity: 99.48% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_mojavensis|MCY9092433.1 | Identity: 98.95% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_halotolerans|MBL4964876.1 | Identity: 98.69% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_atrophaeus|MCY8989245.1 | Identity: 97.64% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_velezensis|MED1920262.1 | Identity: 95.03% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_siamensis|MED0778718.1 | Identity: 95.03% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_amyloliquefaciens|AGZ56251.1 | Identity: 94.76% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_nakamurai|MED1228709.1 | Identity: 94.52% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_swezeyi|TYS38324.1 | Identity: 92.65% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_paralicheniformis|MPQ26156.1 | Identity: 92.65% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_haynesii|MCY8018501.1 | Identity: 92.39% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_licheniformis|AAU40641.1 | Identity: 92.39% | E-value: 0.00e+00 | Coverage: 1.00
+Added: Bacillus_sonorensis|MCY7855331.1 | Identity: 91.60% | E-value: 0.00e+00 | Coverage: 1.00
+
+Extraction complete: Maximum sequence count reached.
+
+Extraction complete.
+Total sequences extracted: 20
+Sequences saved to ftsZ/homologs/ftsZ_prot_homologs.fasta.
